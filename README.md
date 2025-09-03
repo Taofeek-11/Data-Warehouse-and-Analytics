@@ -6,10 +6,9 @@
 
 •	**Languages**: Use English for all names.
 
-Table Naming Conventions
+**Table Naming Conventions**
 
-
-Database Rules
+**Database Rules**
 •	Table names must match their original source file name without renaming 
 Analysis Rules
 •	All names must use meaningful, business-aligned names for tables, starting with the category prefix.
