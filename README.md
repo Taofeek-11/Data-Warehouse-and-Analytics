@@ -50,6 +50,6 @@ This project is licenced under the (MIT Licence) LICENSE. You are free to use, m
 
 ## About Me
 
-Hi, I'm oladigbolu taofeek. just vibing and inshallahu(ing)
+Hi, I'm oladigbolu taofeek...
 
 
