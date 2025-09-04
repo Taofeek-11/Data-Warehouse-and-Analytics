@@ -14,7 +14,7 @@ warning:
 
 -- drop and recreate 'data_warehouse' database 
 
-if  exists Drop database data_warehouse; 
+DROP database IF EXISTS data_warehouse; 
 
 -- create database "data_warehouse" 
 Create database data_warehouse;
