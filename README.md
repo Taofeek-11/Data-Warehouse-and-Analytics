@@ -38,13 +38,18 @@ Develop SQL-based analytics for actionable insights into:
 
 •	**Sales Trends**
 
+•	**Marketing Perfomance**
+
 These insights empower stakeholders with business metrics for strategic decision-making.
 
 ---
 
 ##Licence
 
-This project is licenced under the (
+This project is licenced under the (MIT LICENSE). You are free to use, modify, and share this project with proper attribution
 
-•	**Marketing Perfomance**:
+## About Me
+
+Hi, I'm oladigbolu taofeek. just vibing and inshallahu(ing)
+
 
