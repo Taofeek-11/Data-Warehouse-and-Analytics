@@ -38,21 +38,20 @@ create table bronze.csv_products (
 );
 
 drop table if exists csv_orders;
-create table bronze.csv_orders (
-	order_id varchar (10) primary key,
-	customer_id varchar (10),
-	order_date datetime,
-	order_status varchar(50),
-	subtotal int(10),
-	discount_amount decimal (10, 2),
-	shipping_cost decimal (10, 2),
-	total_amount decimal (10, 2),
-	tax_amount decimal (10, 2),
-	payment_method varchar(50),
-	order_source varchar(50),
-	billing_country varchar(50),
-	constraint fk_customer foreign key (customer_id) references csv_customer (customer_id)
-);
+create table bronze.csv_orders(
+order_id varchar(20) primary key,
+customer_id varchar(20),
+order_data Date,
+order_status varchar(20),
+subtotal int,
+discount_amount float,
+shipping_cost int,
+tax_amount float,
+payment_method varchar(20),
+order_source varchar(20),
+billing_country varchar(5),
+constraint fk_customer foreign key (customer_id) references customer (customer_id)
+ );
 
 drop table if exists csv_order_items;
 create table bronze.csv_order_items (
