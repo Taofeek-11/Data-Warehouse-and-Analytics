@@ -1,6 +1,6 @@
 /*
 ======================================================================================================
-DDL Script: create brinze tables
+DDL Script: create bronze tables
 =======================================================================================================
 script purpose:
   this script creates tables in the 'bronze' schema, dropping existing tables if they already exists.
@@ -81,7 +81,7 @@ LOAD DATA LOCAL INFILE 'C:\\Users\\USER\\Documents\\SQLProject\\E-commerce\\CSV_
 INTO TABLE csv_orders 
 FIELDS TERMINATED BY ',' 
 OPTIONALLY ENCLOSED BY '"' 
-LINES TERMINATED BY '\n' 
+LINES TERMINATED BY '\n'  -- Try Windows line ending
 IGNORE 1 ROWS
 (order_id, customer_id, order_date, order_status, subtotal, discount_amount, shipping_cost, total_amount, tax_amount, payment_method, order_source, billing_country);
 
@@ -100,3 +100,5 @@ fields terminated by ','
 enclosed by '"'
 lines terminated by '\n'
 IGNORE 1 ROWS; 
+
+
