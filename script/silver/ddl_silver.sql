@@ -8,7 +8,7 @@ script purpose:
 =======================================================================================================
 */
 -- creating tables
-drop table if exists csv_customer;
+drop table if exists silver.csv_customer;
 create table silver.csv_customer (
 	customer_id varchar (10) primary key,
 	email varchar(100) UNIQUE,
@@ -16,6 +16,8 @@ create table silver.csv_customer (
 	last_name varchar(50),
 	registration_date datetime,
 	birth_year int,
+    age int,
+    age_category varchar (10),
 	gender varchar(10),
 	country varchar(50),
 	city varchar(50),
@@ -72,3 +74,5 @@ create table silver.csv_order_items (
 	constraint fk_products foreign key (product_id) references csv_products (product_id),
     dwh_create_date datetime default NOW()
    );
+
+
