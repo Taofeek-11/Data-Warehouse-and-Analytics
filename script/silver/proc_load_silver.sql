@@ -7,7 +7,7 @@ script purpose:
   this store procedure loads data into the 'bronze' schema from external csv files.
   it performs the following actions:
   - truncates the silver tables before loading data.
-  - inserts transformed and cleaned data from bronze into silver table.
+  - uses the 'insert' command to load data from csv files to bronze tables.
 
 parameters:
   none.
@@ -34,7 +34,7 @@ BEGIN
     DELETE FROM silver.csv_customer;
     
     SELECT '>> inserting data into: silver.csv_customer' AS message;
-    INSERT INTO silver.csv_customer (customer_id, email, first_name, last_name, registration_date, birth_year, gender, country, city, customer_segment, marketing_opt_in, preferred_category)
+    INSERT INTO silver.csv_customer (customer_id, email, first_name, last_name, registration_date, birth_year, age, age_category, gender, country, city, customer_segment, marketing_opt_in, preferred_category)
     SELECT 
         SUBSTRING(customer_id,6,5) AS customer_id,
         email,
@@ -42,6 +42,15 @@ BEGIN
         TRIM(last_name) AS last_name,
         registration_date,
         birth_year,
+		YEAR(CURDATE()) - birth_year AS age,
+        CASE 
+           WHEN YEAR(CURDATE()) - birth_year < 25 THEN '18-24'
+           WHEN YEAR(CURDATE()) - birth_year < 35 THEN '25-34'
+           WHEN YEAR(CURDATE()) - birth_year < 45 THEN '35-44'
+           WHEN YEAR(CURDATE()) - birth_year < 55 THEN '45-54'
+           WHEN YEAR(CURDATE()) - birth_year < 65 THEN '55-64'
+           ELSE '65+'
+		end as age_category,
         CASE WHEN UPPER(TRIM(gender)) = 'F' THEN 'Female'
              WHEN UPPER(TRIM(gender)) = 'M' THEN 'Male'
              ELSE 'n/a'
