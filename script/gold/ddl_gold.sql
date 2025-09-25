@@ -15,8 +15,9 @@ usage:
 */
 
 -- ====================================================================================================
--- create dimensin
-drop view gold.dim_customers;
+-- create dimension: gold.dim_customers
+-- ====================================================================================================
+drop view if exists gold.dim_customers;
 create view gold.dim_customers as 
 select
 	row_number () over (order by customer_id) as customer_key,
@@ -29,6 +30,11 @@ select
 	city,
 	customer_segment
 from silver.csv_customer;
+
+-- ====================================================================================================
+-- create dimension: gold.dim_products
+-- ====================================================================================================
+drop view if exists gold.dim_products;
 
 create view gold.dim_products as 
 select 
@@ -45,6 +51,10 @@ select
 	reorder_level
 from silver.csv_products;
 
+-- ====================================================================================================
+-- create dimension: gold.dim_orders
+-- ====================================================================================================
+drop view gold.fact_orders;
 create view gold.fact_orders as
 select
 	o.order_id,
