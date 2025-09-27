@@ -1,8 +1,8 @@
 # Data Warehouse and Analytics
 ----
 
-welcome to the **Data Warehouse and Analytics** repository.
-This project demostrates data warehousing and analytics of an e-commerce store. It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
+Welcome to the **Data Warehouse and Analytics** repository.
+This project demostrates data warehousing and analytics of an e-commerce store.  It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
 
 ---
 
@@ -49,9 +49,7 @@ These insights empower stakeholders with business metrics for strategic decision
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
-
-<img width="1188" height="782" alt="data model" src="https://github.com/user-attachments/assets/902dbadc-deaa-4090-ad2a-980fe36b1e1b" />
-
+![Alt text]("C:\Users\USER\Documents\SQLProject\E-commerce\SQL_FILE\data model.png")
 
 ---
 ## Licence
