@@ -1,5 +1,3 @@
-<img width="1188" height="782" alt="data model" src="https://github.com/user-attachments/assets/d5a57d12-04c7-4927-be14-d248aa7065af" /># Data-Warehouse-and-Analytics
-
 welcome to the **Data-Warehouse-and-Analytics** repository.
 This project demostrates data warehousing and analytics of an e-commerce store. It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
 
