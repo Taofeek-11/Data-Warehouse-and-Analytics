@@ -33,13 +33,13 @@ Develop SQL-based analytics for actionable insights into:
 
 •	**Product Performance**
 
-•	**Customer Behaviour**
+•	**Cus•	**Marketing Perfomance**
+tomer Behaviour**
 
 •	**Customer Values**
 
 •	**Sales Trends**
 
-•	**Marketing Perfomance**
 
 These insights empower stakeholders with business metrics for strategic decision-making.
 
@@ -49,7 +49,11 @@ These insights empower stakeholders with business metrics for strategic decision
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
-![Alt text]("C:\Users\USER\Documents\SQLProject\E-commerce\SQL_FILE\data model.png")
+<img width="1188" height="782" alt="data model" src="https://github.com/user-attachments/assets/3c23d23b-5ef7-4157-9360-b32761afb482" />
+
+1. **Bronze:** Stores raw data without changes from source systems. Data from CSV files are ingested into a SQL server for analysis
+2. **Silver:** Data were cleaned, standardized, and normalized for analysis.
+3. **Gold:** Stores business-ready data modelled for a star schema for analysis and reporting.    
 
 ---
 ## Licence
