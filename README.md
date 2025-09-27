@@ -49,7 +49,7 @@ These insights empower stakeholders with business metrics for strategic decision
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
-![Alt text](https://github.com/Taofeek-11/data-warehouse-and-analytics-/blob/main/data%20model.png)
+![Alt text](./data-model.png)
 
 1. **Bronze:** Stores raw data without changes from source systems. Data from CSV files are ingested into a SQL server for analysis
 2. **Silver:** Data were cleaned, standardized, and normalized for analysis.
