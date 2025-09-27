@@ -1,4 +1,4 @@
-##### Data Warehouse and Analytics
+#### Data Warehouse and Analytics
 ----
 
 welcome to the **Data-Warehouse-and-Analytics** repository.
