@@ -49,6 +49,7 @@ These insights empower stakeholders with business metrics for strategic decision
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
+
 <img width="1188" height="782" alt="data model" src="https://github.com/user-attachments/assets/902dbadc-deaa-4090-ad2a-980fe36b1e1b" />
 
 
