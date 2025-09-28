@@ -49,7 +49,7 @@ These insights empower stakeholders with business metrics for strategic decision
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
-![Data Architecture](image/data-architecture.png)
+![Data Architecture](doc./data_architecture.png)
 
 1. **Bronze:** Stores raw data without changes from source systems. Data from CSV files are ingested into a SQL server for analysis
 2. **Silver:** Data were cleaned, standardized, and normalized for analysis.
