@@ -1,0 +1,1201 @@
+product_id,product_name,category,brand,price,cost,launch_date,current_inventory,reorder_level
+PROD-0001,"StyleMax Clothing Model 1001",Clothing,StyleMax,31,20.15,2021-02-02,101,21
+PROD-0002,"HomeComfort Home & Garden Model 1002",Home & Garden,HomeComfort,32,20.8,2022-03-03,102,22
+PROD-0003,"ActiveLife Sports Model 1003",Sports,ActiveLife,33,21.45,2023-04-04,103,23
+PROD-0004,"ReadMore Books Model 1004",Books,ReadMore,16,10.4,2024-05-05,104,24
+PROD-0005,"GlowUp Beauty Model 1005",Beauty,GlowUp,30,19.5,2020-06-06,105,25
+PROD-0006,"AutoPro Automotive Model 1006",Automotive,AutoPro,36,23.4,2021-07-07,106,26
+PROD-0007,"PlayFun Toys Model 1007",Toys,PlayFun,37,24.05,2022-08-08,107,27
+PROD-0008,"TechnoCore Electronics Model 1008",Electronics,TechnoCore,158,102.7,2023-09-09,108,28
+PROD-0009,"StyleMax Clothing Model 1009",Clothing,StyleMax,39,25.35,2024-10-10,109,29
+PROD-0010,"HomeComfort Home & Garden Model 1010",Home & Garden,HomeComfort,40,26,2020-11-11,110,30
+PROD-0011,"ActiveLife Sports Model 1011",Sports,ActiveLife,41,26.65,2021-12-12,111,31
+PROD-0012,"ReadMore Books Model 1012",Books,ReadMore,24,15.6,2022-01-13,112,32
+PROD-0013,"GlowUp Beauty Model 1013",Beauty,GlowUp,38,24.7,2023-02-14,113,33
+PROD-0014,"AutoPro Automotive Model 1014",Automotive,AutoPro,44,28.6,2024-03-15,114,34
+PROD-0015,"PlayFun Toys Model 1015",Toys,PlayFun,45,29.25,2020-04-16,115,35
+PROD-0016,"TechnoCore Electronics Model 1016",Electronics,TechnoCore,166,107.9,2021-05-17,116,36
+PROD-0017,"StyleMax Clothing Model 1017",Clothing,StyleMax,47,30.55,2022-06-18,117,37
+PROD-0018,"HomeComfort Home & Garden Model 1018",Home & Garden,HomeComfort,48,31.2,2023-07-19,118,38
+PROD-0019,"ActiveLife Sports Model 1019",Sports,ActiveLife,49,31.85,2024-08-20,119,39
+PROD-0020,"ReadMore Books Model 1020",Books,ReadMore,32,20.8,2020-09-21,120,40
+PROD-0021,"GlowUp Beauty Model 1021",Beauty,GlowUp,46,29.9,2021-10-22,121,41
+PROD-0022,"AutoPro Automotive Model 1022",Automotive,AutoPro,52,33.8,2022-11-23,122,42
+PROD-0023,"PlayFun Toys Model 1023",Toys,PlayFun,53,34.45,2023-12-24,123,43
+PROD-0024,"TechnoCore Electronics Model 1024",Electronics,TechnoCore,174,113.1,2024-01-25,124,44
+PROD-0025,"StyleMax Clothing Model 1025",Clothing,StyleMax,55,35.75,2020-02-26,125,45
+PROD-0026,"HomeComfort Home & Garden Model 1026",Home & Garden,HomeComfort,56,36.4,2021-03-27,126,46
+PROD-0027,"ActiveLife Sports Model 1027",Sports,ActiveLife,57,37.05,2022-04-28,127,47
+PROD-0028,"ReadMore Books Model 1028",Books,ReadMore,15,9.75,2023-05-01,128,48
+PROD-0029,"GlowUp Beauty Model 1029",Beauty,GlowUp,54,35.1,2024-06-02,129,49
+PROD-0030,"AutoPro Automotive Model 1030",Automotive,AutoPro,60,39,2020-07-03,130,50
+PROD-0031,"PlayFun Toys Model 1031",Toys,PlayFun,61,39.65,2021-08-04,131,51
+PROD-0032,"TechnoCore Electronics Model 1032",Electronics,TechnoCore,182,118.3,2022-09-05,132,52
+PROD-0033,"StyleMax Clothing Model 1033",Clothing,StyleMax,63,40.95,2023-10-06,133,53
+PROD-0034,"HomeComfort Home & Garden Model 1034",Home & Garden,HomeComfort,64,41.6,2024-11-07,134,54
+PROD-0035,"ActiveLife Sports Model 1035",Sports,ActiveLife,65,42.25,2020-12-08,135,55
+PROD-0036,"ReadMore Books Model 1036",Books,ReadMore,23,14.95,2021-01-09,136,56
+PROD-0037,"GlowUp Beauty Model 1037",Beauty,GlowUp,62,40.3,2022-02-10,137,57
+PROD-0038,"AutoPro Automotive Model 1038",Automotive,AutoPro,68,44.2,2023-03-11,138,58
+PROD-0039,"PlayFun Toys Model 1039",Toys,PlayFun,69,44.85,2024-04-12,139,59
+PROD-0040,"TechnoCore Electronics Model 1040",Electronics,TechnoCore,190,123.5,2020-05-13,140,60
+PROD-0041,"StyleMax Clothing Model 1041",Clothing,StyleMax,71,46.15,2021-06-14,141,61
+PROD-0042,"HomeComfort Home & Garden Model 1042",Home & Garden,HomeComfort,72,46.8,2022-07-15,142,62
+PROD-0043,"ActiveLife Sports Model 1043",Sports,ActiveLife,73,47.45,2023-08-16,143,63
+PROD-0044,"ReadMore Books Model 1044",Books,ReadMore,31,20.15,2024-09-17,144,64
+PROD-0045,"GlowUp Beauty Model 1045",Beauty,GlowUp,70,45.5,2020-10-18,145,65
+PROD-0046,"AutoPro Automotive Model 1046",Automotive,AutoPro,76,49.4,2021-11-19,146,66
+PROD-0047,"PlayFun Toys Model 1047",Toys,PlayFun,77,50.05,2022-12-20,147,67
+PROD-0048,"TechnoCore Electronics Model 1048",Electronics,TechnoCore,198,128.7,2023-01-21,148,68
+PROD-0049,"StyleMax Clothing Model 1049",Clothing,StyleMax,79,51.35,2024-02-22,149,69
+PROD-0050,"HomeComfort Home & Garden Model 1050",Home & Garden,HomeComfort,80,52,2020-03-23,150,70
+PROD-0051,"ActiveLife Sports Model 1051",Sports,ActiveLife,81,52.65,2021-04-24,151,71
+PROD-0052,"ReadMore Books Model 1052",Books,ReadMore,14,9.1,2022-05-25,152,72
+PROD-0053,"GlowUp Beauty Model 1053",Beauty,GlowUp,78,50.7,2023-06-26,153,73
+PROD-0054,"AutoPro Automotive Model 1054",Automotive,AutoPro,84,54.6,2024-07-27,154,74
+PROD-0055,"PlayFun Toys Model 1055",Toys,PlayFun,85,55.25,2020-08-28,155,75
+PROD-0056,"TechnoCore Electronics Model 1056",Electronics,TechnoCore,206,133.9,2021-09-01,156,76
+PROD-0057,"StyleMax Clothing Model 1057",Clothing,StyleMax,87,56.55,2022-10-02,157,77
+PROD-0058,"HomeComfort Home & Garden Model 1058",Home & Garden,HomeComfort,88,57.2,2023-11-03,158,78
+PROD-0059,"ActiveLife Sports Model 1059",Sports,ActiveLife,89,57.85,2024-12-04,159,79
+PROD-0060,"ReadMore Books Model 1060",Books,ReadMore,22,14.3,2020-01-05,160,80
+PROD-0061,"GlowUp Beauty Model 1061",Beauty,GlowUp,86,55.9,2021-02-06,161,81
+PROD-0062,"AutoPro Automotive Model 1062",Automotive,AutoPro,92,59.8,2022-03-07,162,82
+PROD-0063,"PlayFun Toys Model 1063",Toys,PlayFun,93,60.45,2023-04-08,163,83
+PROD-0064,"TechnoCore Electronics Model 1064",Electronics,TechnoCore,214,139.1,2024-05-09,164,84
+PROD-0065,"StyleMax Clothing Model 1065",Clothing,StyleMax,95,61.75,2020-06-10,165,85
+PROD-0066,"HomeComfort Home & Garden Model 1066",Home & Garden,HomeComfort,96,62.4,2021-07-11,166,86
+PROD-0067,"ActiveLife Sports Model 1067",Sports,ActiveLife,97,63.05,2022-08-12,167,87
+PROD-0068,"ReadMore Books Model 1068",Books,ReadMore,30,19.5,2023-09-13,168,88
+PROD-0069,"GlowUp Beauty Model 1069",Beauty,GlowUp,94,61.1,2024-10-14,169,89
+PROD-0070,"AutoPro Automotive Model 1070",Automotive,AutoPro,100,65,2020-11-15,170,90
+PROD-0071,"PlayFun Toys Model 1071",Toys,PlayFun,101,65.65,2021-12-16,171,91
+PROD-0072,"TechnoCore Electronics Model 1072",Electronics,TechnoCore,222,144.3,2022-01-17,172,92
+PROD-0073,"StyleMax Clothing Model 1073",Clothing,StyleMax,103,66.95,2023-02-18,173,93
+PROD-0074,"HomeComfort Home & Garden Model 1074",Home & Garden,HomeComfort,104,67.6,2024-03-19,174,94
+PROD-0075,"ActiveLife Sports Model 1075",Sports,ActiveLife,105,68.25,2020-04-20,175,95
+PROD-0076,"ReadMore Books Model 1076",Books,ReadMore,13,8.45,2021-05-21,176,96
+PROD-0077,"GlowUp Beauty Model 1077",Beauty,GlowUp,27,17.55,2022-06-22,177,97
+PROD-0078,"AutoPro Automotive Model 1078",Automotive,AutoPro,108,70.2,2023-07-23,178,98
+PROD-0079,"PlayFun Toys Model 1079",Toys,PlayFun,109,70.85,2024-08-24,179,99
+PROD-0080,"TechnoCore Electronics Model 1080",Electronics,TechnoCore,230,149.5,2020-09-25,180,20
+PROD-0081,"StyleMax Clothing Model 1081",Clothing,StyleMax,111,72.15,2021-10-26,181,21
+PROD-0082,"HomeComfort Home & Garden Model 1082",Home & Garden,HomeComfort,112,72.8,2022-11-27,182,22
+PROD-0083,"ActiveLife Sports Model 1083",Sports,ActiveLife,113,73.45,2023-12-28,183,23
+PROD-0084,"ReadMore Books Model 1084",Books,ReadMore,21,13.65,2024-01-01,184,24
+PROD-0085,"GlowUp Beauty Model 1085",Beauty,GlowUp,35,22.75,2020-02-02,185,25
+PROD-0086,"AutoPro Automotive Model 1086",Automotive,AutoPro,116,75.4,2021-03-03,186,26
+PROD-0087,"PlayFun Toys Model 1087",Toys,PlayFun,117,76.05,2022-04-04,187,27
+PROD-0088,"TechnoCore Electronics Model 1088",Electronics,TechnoCore,238,154.7,2023-05-05,188,28
+PROD-0089,"StyleMax Clothing Model 1089",Clothing,StyleMax,119,77.35,2024-06-06,189,29
+PROD-0090,"HomeComfort Home & Garden Model 1090",Home & Garden,HomeComfort,120,78,2020-07-07,190,30
+PROD-0091,"ActiveLife Sports Model 1091",Sports,ActiveLife,121,78.65,2021-08-08,191,31
+PROD-0092,"ReadMore Books Model 1092",Books,ReadMore,29,18.85,2022-09-09,192,32
+PROD-0093,"GlowUp Beauty Model 1093",Beauty,GlowUp,43,27.95,2023-10-10,193,33
+PROD-0094,"AutoPro Automotive Model 1094",Automotive,AutoPro,124,80.6,2024-11-11,194,34
+PROD-0095,"PlayFun Toys Model 1095",Toys,PlayFun,125,81.25,2020-12-12,195,35
+PROD-0096,"TechnoCore Electronics Model 1096",Electronics,TechnoCore,246,159.9,2021-01-13,196,36
+PROD-0097,"StyleMax Clothing Model 1097",Clothing,StyleMax,127,82.55,2022-02-14,197,37
+PROD-0098,"HomeComfort Home & Garden Model 1098",Home & Garden,HomeComfort,128,83.2,2023-03-15,198,38
+PROD-0099,"ActiveLife Sports Model 1099",Sports,ActiveLife,129,83.85,2024-04-16,199,39
+PROD-0100,"ReadMore Books Model 1100",Books,ReadMore,12,7.8,2020-05-17,200,40
+PROD-0101,"GlowUp Beauty Model 1101",Beauty,GlowUp,51,33.15,2021-06-18,201,41
+PROD-0102,"AutoPro Automotive Model 1102",Automotive,AutoPro,132,85.8,2022-07-19,202,42
+PROD-0103,"PlayFun Toys Model 1103",Toys,PlayFun,133,86.45,2023-08-20,203,43
+PROD-0104,"TechnoCore Electronics Model 1104",Electronics,TechnoCore,254,165.1,2024-09-21,204,44
+PROD-0105,"StyleMax Clothing Model 1105",Clothing,StyleMax,135,87.75,2020-10-22,205,45
+PROD-0106,"HomeComfort Home & Garden Model 1106",Home & Garden,HomeComfort,136,88.4,2021-11-23,206,46
+PROD-0107,"ActiveLife Sports Model 1107",Sports,ActiveLife,137,89.05,2022-12-24,207,47
+PROD-0108,"ReadMore Books Model 1108",Books,ReadMore,20,13,2023-01-25,208,48
+PROD-0109,"GlowUp Beauty Model 1109",Beauty,GlowUp,59,38.35,2024-02-26,209,49
+PROD-0110,"AutoPro Automotive Model 1110",Automotive,AutoPro,140,91,2020-03-27,210,50
+PROD-0111,"PlayFun Toys Model 1111",Toys,PlayFun,141,91.65,2021-04-28,211,51
+PROD-0112,"TechnoCore Electronics Model 1112",Electronics,TechnoCore,262,170.3,2022-05-01,212,52
+PROD-0113,"StyleMax Clothing Model 1113",Clothing,StyleMax,143,92.95,2023-06-02,213,53
+PROD-0114,"HomeComfort Home & Garden Model 1114",Home & Garden,HomeComfort,144,93.6,2024-07-03,214,54
+PROD-0115,"ActiveLife Sports Model 1115",Sports,ActiveLife,145,94.25,2020-08-04,215,55
+PROD-0116,"ReadMore Books Model 1116",Books,ReadMore,28,18.2,2021-09-05,216,56
+PROD-0117,"GlowUp Beauty Model 1117",Beauty,GlowUp,67,43.55,2022-10-06,217,57
+PROD-0118,"AutoPro Automotive Model 1118",Automotive,AutoPro,148,96.2,2023-11-07,218,58
+PROD-0119,"PlayFun Toys Model 1119",Toys,PlayFun,149,96.85,2024-12-08,219,59
+PROD-0120,"TechnoCore Electronics Model 1120",Electronics,TechnoCore,270,175.5,2020-01-09,220,60
+PROD-0121,"StyleMax Clothing Model 1121",Clothing,StyleMax,151,98.15,2021-02-10,221,61
+PROD-0122,"HomeComfort Home & Garden Model 1122",Home & Garden,HomeComfort,152,98.8,2022-03-11,222,62
+PROD-0123,"ActiveLife Sports Model 1123",Sports,ActiveLife,153,99.45,2023-04-12,223,63
+PROD-0124,"ReadMore Books Model 1124",Books,ReadMore,36,23.4,2024-05-13,224,64
+PROD-0125,"GlowUp Beauty Model 1125",Beauty,GlowUp,75,48.75,2020-06-14,225,65
+PROD-0126,"AutoPro Automotive Model 1126",Automotive,AutoPro,156,101.4,2021-07-15,226,66
+PROD-0127,"PlayFun Toys Model 1127",Toys,PlayFun,157,102.05,2022-08-16,227,67
+PROD-0128,"TechnoCore Electronics Model 1128",Electronics,TechnoCore,278,180.7,2023-09-17,228,68
+PROD-0129,"StyleMax Clothing Model 1129",Clothing,StyleMax,159,103.35,2024-10-18,229,69
+PROD-0130,"HomeComfort Home & Garden Model 1130",Home & Garden,HomeComfort,160,104,2020-11-19,230,70
+PROD-0131,"ActiveLife Sports Model 1131",Sports,ActiveLife,161,104.65,2021-12-20,231,71
+PROD-0132,"ReadMore Books Model 1132",Books,ReadMore,19,12.35,2022-01-21,232,72
+PROD-0133,"GlowUp Beauty Model 1133",Beauty,GlowUp,83,53.95,2023-02-22,233,73
+PROD-0134,"AutoPro Automotive Model 1134",Automotive,AutoPro,164,106.6,2024-03-23,234,74
+PROD-0135,"PlayFun Toys Model 1135",Toys,PlayFun,165,107.25,2020-04-24,235,75
+PROD-0136,"TechnoCore Electronics Model 1136",Electronics,TechnoCore,286,185.9,2021-05-25,236,76
+PROD-0137,"StyleMax Clothing Model 1137",Clothing,StyleMax,167,108.55,2022-06-26,237,77
+PROD-0138,"HomeComfort Home & Garden Model 1138",Home & Garden,HomeComfort,168,109.2,2023-07-27,238,78
+PROD-0139,"ActiveLife Sports Model 1139",Sports,ActiveLife,169,109.85,2024-08-28,239,79
+PROD-0140,"ReadMore Books Model 1140",Books,ReadMore,27,17.55,2020-09-01,240,80
+PROD-0141,"GlowUp Beauty Model 1141",Beauty,GlowUp,91,59.15,2021-10-02,241,81
+PROD-0142,"AutoPro Automotive Model 1142",Automotive,AutoPro,172,111.8,2022-11-03,242,82
+PROD-0143,"PlayFun Toys Model 1143",Toys,PlayFun,173,112.45,2023-12-04,243,83
+PROD-0144,"TechnoCore Electronics Model 1144",Electronics,TechnoCore,294,191.1,2024-01-05,244,84
+PROD-0145,"StyleMax Clothing Model 1145",Clothing,StyleMax,175,113.75,2020-02-06,245,85
+PROD-0146,"HomeComfort Home & Garden Model 1146",Home & Garden,HomeComfort,176,114.4,2021-03-07,246,86
+PROD-0147,"ActiveLife Sports Model 1147",Sports,ActiveLife,177,115.05,2022-04-08,247,87
+PROD-0148,"ReadMore Books Model 1148",Books,ReadMore,35,22.75,2023-05-09,248,88
+PROD-0149,"GlowUp Beauty Model 1149",Beauty,GlowUp,99,64.35,2024-06-10,249,89
+PROD-0150,"AutoPro Automotive Model 1150",Automotive,AutoPro,30,19.5,2020-07-11,250,90
+PROD-0151,"PlayFun Toys Model 1151",Toys,PlayFun,31,20.15,2021-08-12,251,91
+PROD-0152,"TechnoCore Electronics Model 1152",Electronics,TechnoCore,302,196.3,2022-09-13,252,92
+PROD-0153,"StyleMax Clothing Model 1153",Clothing,StyleMax,33,21.45,2023-10-14,253,93
+PROD-0154,"HomeComfort Home & Garden Model 1154",Home & Garden,HomeComfort,34,22.1,2024-11-15,254,94
+PROD-0155,"ActiveLife Sports Model 1155",Sports,ActiveLife,35,22.75,2020-12-16,255,95
+PROD-0156,"ReadMore Books Model 1156",Books,ReadMore,18,11.7,2021-01-17,256,96
+PROD-0157,"GlowUp Beauty Model 1157",Beauty,GlowUp,32,20.8,2022-02-18,257,97
+PROD-0158,"AutoPro Automotive Model 1158",Automotive,AutoPro,38,24.7,2023-03-19,258,98
+PROD-0159,"PlayFun Toys Model 1159",Toys,PlayFun,39,25.35,2024-04-20,259,99
+PROD-0160,"TechnoCore Electronics Model 1160",Electronics,TechnoCore,310,201.5,2020-05-21,260,20
+PROD-0161,"StyleMax Clothing Model 1161",Clothing,StyleMax,41,26.65,2021-06-22,261,21
+PROD-0162,"HomeComfort Home & Garden Model 1162",Home & Garden,HomeComfort,42,27.3,2022-07-23,262,22
+PROD-0163,"ActiveLife Sports Model 1163",Sports,ActiveLife,43,27.95,2023-08-24,263,23
+PROD-0164,"ReadMore Books Model 1164",Books,ReadMore,26,16.9,2024-09-25,264,24
+PROD-0165,"GlowUp Beauty Model 1165",Beauty,GlowUp,40,26,2020-10-26,265,25
+PROD-0166,"AutoPro Automotive Model 1166",Automotive,AutoPro,46,29.9,2021-11-27,266,26
+PROD-0167,"PlayFun Toys Model 1167",Toys,PlayFun,47,30.55,2022-12-28,267,27
+PROD-0168,"TechnoCore Electronics Model 1168",Electronics,TechnoCore,318,206.7,2023-01-01,268,28
+PROD-0169,"StyleMax Clothing Model 1169",Clothing,StyleMax,49,31.85,2024-02-02,269,29
+PROD-0170,"HomeComfort Home & Garden Model 1170",Home & Garden,HomeComfort,50,32.5,2020-03-03,270,30
+PROD-0171,"ActiveLife Sports Model 1171",Sports,ActiveLife,51,33.15,2021-04-04,271,31
+PROD-0172,"ReadMore Books Model 1172",Books,ReadMore,34,22.1,2022-05-05,272,32
+PROD-0173,"GlowUp Beauty Model 1173",Beauty,GlowUp,48,31.2,2023-06-06,273,33
+PROD-0174,"AutoPro Automotive Model 1174",Automotive,AutoPro,54,35.1,2024-07-07,274,34
+PROD-0175,"PlayFun Toys Model 1175",Toys,PlayFun,55,35.75,2020-08-08,275,35
+PROD-0176,"TechnoCore Electronics Model 1176",Electronics,TechnoCore,326,211.9,2021-09-09,276,36
+PROD-0177,"StyleMax Clothing Model 1177",Clothing,StyleMax,57,37.05,2022-10-10,277,37
+PROD-0178,"HomeComfort Home & Garden Model 1178",Home & Garden,HomeComfort,58,37.7,2023-11-11,278,38
+PROD-0179,"ActiveLife Sports Model 1179",Sports,ActiveLife,59,38.35,2024-12-12,279,39
+PROD-0180,"ReadMore Books Model 1180",Books,ReadMore,17,11.05,2020-01-13,280,40
+PROD-0181,"GlowUp Beauty Model 1181",Beauty,GlowUp,56,36.4,2021-02-14,281,41
+PROD-0182,"AutoPro Automotive Model 1182",Automotive,AutoPro,62,40.3,2022-03-15,282,42
+PROD-0183,"PlayFun Toys Model 1183",Toys,PlayFun,63,40.95,2023-04-16,283,43
+PROD-0184,"TechnoCore Electronics Model 1184",Electronics,TechnoCore,334,217.1,2024-05-17,284,44
+PROD-0185,"StyleMax Clothing Model 1185",Clothing,StyleMax,65,42.25,2020-06-18,285,45
+PROD-0186,"HomeComfort Home & Garden Model 1186",Home & Garden,HomeComfort,66,42.9,2021-07-19,286,46
+PROD-0187,"ActiveLife Sports Model 1187",Sports,ActiveLife,67,43.55,2022-08-20,287,47
+PROD-0188,"ReadMore Books Model 1188",Books,ReadMore,25,16.25,2023-09-21,288,48
+PROD-0189,"GlowUp Beauty Model 1189",Beauty,GlowUp,64,41.6,2024-10-22,289,49
+PROD-0190,"AutoPro Automotive Model 1190",Automotive,AutoPro,70,45.5,2020-11-23,290,50
+PROD-0191,"PlayFun Toys Model 1191",Toys,PlayFun,71,46.15,2021-12-24,291,51
+PROD-0192,"TechnoCore Electronics Model 1192",Electronics,TechnoCore,342,222.3,2022-01-25,292,52
+PROD-0193,"StyleMax Clothing Model 1193",Clothing,StyleMax,73,47.45,2023-02-26,293,53
+PROD-0194,"HomeComfort Home & Garden Model 1194",Home & Garden,HomeComfort,74,48.1,2024-03-27,294,54
+PROD-0195,"ActiveLife Sports Model 1195",Sports,ActiveLife,75,48.75,2020-04-28,295,55
+PROD-0196,"ReadMore Books Model 1196",Books,ReadMore,33,21.45,2021-05-01,296,56
+PROD-0197,"GlowUp Beauty Model 1197",Beauty,GlowUp,72,46.8,2022-06-02,297,57
+PROD-0198,"AutoPro Automotive Model 1198",Automotive,AutoPro,78,50.7,2023-07-03,298,58
+PROD-0199,"PlayFun Toys Model 1199",Toys,PlayFun,79,51.35,2024-08-04,299,59
+PROD-0200,"TechnoCore Electronics Model 1200",Electronics,TechnoCore,350,227.5,2020-09-05,300,60
+PROD-0201,"StyleMax Clothing Model 1201",Clothing,StyleMax,81,52.65,2021-10-06,301,61
+PROD-0202,"HomeComfort Home & Garden Model 1202",Home & Garden,HomeComfort,82,53.3,2022-11-07,302,62
+PROD-0203,"ActiveLife Sports Model 1203",Sports,ActiveLife,83,53.95,2023-12-08,303,63
+PROD-0204,"ReadMore Books Model 1204",Books,ReadMore,16,10.4,2024-01-09,304,64
+PROD-0205,"GlowUp Beauty Model 1205",Beauty,GlowUp,80,52,2020-02-10,305,65
+PROD-0206,"AutoPro Automotive Model 1206",Automotive,AutoPro,86,55.9,2021-03-11,306,66
+PROD-0207,"PlayFun Toys Model 1207",Toys,PlayFun,87,56.55,2022-04-12,307,67
+PROD-0208,"TechnoCore Electronics Model 1208",Electronics,TechnoCore,358,232.7,2023-05-13,308,68
+PROD-0209,"StyleMax Clothing Model 1209",Clothing,StyleMax,89,57.85,2024-06-14,309,69
+PROD-0210,"HomeComfort Home & Garden Model 1210",Home & Garden,HomeComfort,90,58.5,2020-07-15,310,70
+PROD-0211,"ActiveLife Sports Model 1211",Sports,ActiveLife,91,59.15,2021-08-16,311,71
+PROD-0212,"ReadMore Books Model 1212",Books,ReadMore,24,15.6,2022-09-17,312,72
+PROD-0213,"GlowUp Beauty Model 1213",Beauty,GlowUp,88,57.2,2023-10-18,313,73
+PROD-0214,"AutoPro Automotive Model 1214",Automotive,AutoPro,94,61.1,2024-11-19,314,74
+PROD-0215,"PlayFun Toys Model 1215",Toys,PlayFun,95,61.75,2020-12-20,315,75
+PROD-0216,"TechnoCore Electronics Model 1216",Electronics,TechnoCore,366,237.9,2021-01-21,316,76
+PROD-0217,"StyleMax Clothing Model 1217",Clothing,StyleMax,97,63.05,2022-02-22,317,77
+PROD-0218,"HomeComfort Home & Garden Model 1218",Home & Garden,HomeComfort,98,63.7,2023-03-23,318,78
+PROD-0219,"ActiveLife Sports Model 1219",Sports,ActiveLife,99,64.35,2024-04-24,319,79
+PROD-0220,"ReadMore Books Model 1220",Books,ReadMore,32,20.8,2020-05-25,320,80
+PROD-0221,"GlowUp Beauty Model 1221",Beauty,GlowUp,96,62.4,2021-06-26,321,81
+PROD-0222,"AutoPro Automotive Model 1222",Automotive,AutoPro,102,66.3,2022-07-27,322,82
+PROD-0223,"PlayFun Toys Model 1223",Toys,PlayFun,103,66.95,2023-08-28,323,83
+PROD-0224,"TechnoCore Electronics Model 1224",Electronics,TechnoCore,374,243.1,2024-09-01,324,84
+PROD-0225,"StyleMax Clothing Model 1225",Clothing,StyleMax,105,68.25,2020-10-02,325,85
+PROD-0226,"HomeComfort Home & Garden Model 1226",Home & Garden,HomeComfort,106,68.9,2021-11-03,326,86
+PROD-0227,"ActiveLife Sports Model 1227",Sports,ActiveLife,107,69.55,2022-12-04,327,87
+PROD-0228,"ReadMore Books Model 1228",Books,ReadMore,15,9.75,2023-01-05,328,88
+PROD-0229,"GlowUp Beauty Model 1229",Beauty,GlowUp,29,18.85,2024-02-06,329,89
+PROD-0230,"AutoPro Automotive Model 1230",Automotive,AutoPro,110,71.5,2020-03-07,330,90
+PROD-0231,"PlayFun Toys Model 1231",Toys,PlayFun,111,72.15,2021-04-08,331,91
+PROD-0232,"TechnoCore Electronics Model 1232",Electronics,TechnoCore,382,248.3,2022-05-09,332,92
+PROD-0233,"StyleMax Clothing Model 1233",Clothing,StyleMax,113,73.45,2023-06-10,333,93
+PROD-0234,"HomeComfort Home & Garden Model 1234",Home & Garden,HomeComfort,114,74.1,2024-07-11,334,94
+PROD-0235,"ActiveLife Sports Model 1235",Sports,ActiveLife,115,74.75,2020-08-12,335,95
+PROD-0236,"ReadMore Books Model 1236",Books,ReadMore,23,14.95,2021-09-13,336,96
+PROD-0237,"GlowUp Beauty Model 1237",Beauty,GlowUp,37,24.05,2022-10-14,337,97
+PROD-0238,"AutoPro Automotive Model 1238",Automotive,AutoPro,118,76.7,2023-11-15,338,98
+PROD-0239,"PlayFun Toys Model 1239",Toys,PlayFun,119,77.35,2024-12-16,339,99
+PROD-0240,"TechnoCore Electronics Model 1240",Electronics,TechnoCore,390,253.5,2020-01-17,340,20
+PROD-0241,"StyleMax Clothing Model 1241",Clothing,StyleMax,121,78.65,2021-02-18,341,21
+PROD-0242,"HomeComfort Home & Garden Model 1242",Home & Garden,HomeComfort,122,79.3,2022-03-19,342,22
+PROD-0243,"ActiveLife Sports Model 1243",Sports,ActiveLife,123,79.95,2023-04-20,343,23
+PROD-0244,"ReadMore Books Model 1244",Books,ReadMore,31,20.15,2024-05-21,344,24
+PROD-0245,"GlowUp Beauty Model 1245",Beauty,GlowUp,45,29.25,2020-06-22,345,25
+PROD-0246,"AutoPro Automotive Model 1246",Automotive,AutoPro,126,81.9,2021-07-23,346,26
+PROD-0247,"PlayFun Toys Model 1247",Toys,PlayFun,127,82.55,2022-08-24,347,27
+PROD-0248,"TechnoCore Electronics Model 1248",Electronics,TechnoCore,398,258.7,2023-09-25,348,28
+PROD-0249,"StyleMax Clothing Model 1249",Clothing,StyleMax,129,83.85,2024-10-26,349,29
+PROD-0250,"HomeComfort Home & Garden Model 1250",Home & Garden,HomeComfort,130,84.5,2020-11-27,350,30
+PROD-0251,"ActiveLife Sports Model 1251",Sports,ActiveLife,131,85.15,2021-12-28,351,31
+PROD-0252,"ReadMore Books Model 1252",Books,ReadMore,14,9.1,2022-01-01,352,32
+PROD-0253,"GlowUp Beauty Model 1253",Beauty,GlowUp,53,34.45,2023-02-02,353,33
+PROD-0254,"AutoPro Automotive Model 1254",Automotive,AutoPro,134,87.1,2024-03-03,354,34
+PROD-0255,"PlayFun Toys Model 1255",Toys,PlayFun,135,87.75,2020-04-04,355,35
+PROD-0256,"TechnoCore Electronics Model 1256",Electronics,TechnoCore,406,263.9,2021-05-05,356,36
+PROD-0257,"StyleMax Clothing Model 1257",Clothing,StyleMax,137,89.05,2022-06-06,357,37
+PROD-0258,"HomeComfort Home & Garden Model 1258",Home & Garden,HomeComfort,138,89.7,2023-07-07,358,38
+PROD-0259,"ActiveLife Sports Model 1259",Sports,ActiveLife,139,90.35,2024-08-08,359,39
+PROD-0260,"ReadMore Books Model 1260",Books,ReadMore,22,14.3,2020-09-09,360,40
+PROD-0261,"GlowUp Beauty Model 1261",Beauty,GlowUp,61,39.65,2021-10-10,361,41
+PROD-0262,"AutoPro Automotive Model 1262",Automotive,AutoPro,142,92.3,2022-11-11,362,42
+PROD-0263,"PlayFun Toys Model 1263",Toys,PlayFun,143,92.95,2023-12-12,363,43
+PROD-0264,"TechnoCore Electronics Model 1264",Electronics,TechnoCore,414,269.1,2024-01-13,364,44
+PROD-0265,"StyleMax Clothing Model 1265",Clothing,StyleMax,145,94.25,2020-02-14,365,45
+PROD-0266,"HomeComfort Home & Garden Model 1266",Home & Garden,HomeComfort,146,94.9,2021-03-15,366,46
+PROD-0267,"ActiveLife Sports Model 1267",Sports,ActiveLife,147,95.55,2022-04-16,367,47
+PROD-0268,"ReadMore Books Model 1268",Books,ReadMore,30,19.5,2023-05-17,368,48
+PROD-0269,"GlowUp Beauty Model 1269",Beauty,GlowUp,69,44.85,2024-06-18,369,49
+PROD-0270,"AutoPro Automotive Model 1270",Automotive,AutoPro,150,97.5,2020-07-19,370,50
+PROD-0271,"PlayFun Toys Model 1271",Toys,PlayFun,151,98.15,2021-08-20,371,51
+PROD-0272,"TechnoCore Electronics Model 1272",Electronics,TechnoCore,422,274.3,2022-09-21,372,52
+PROD-0273,"StyleMax Clothing Model 1273",Clothing,StyleMax,153,99.45,2023-10-22,373,53
+PROD-0274,"HomeComfort Home & Garden Model 1274",Home & Garden,HomeComfort,154,100.1,2024-11-23,374,54
+PROD-0275,"ActiveLife Sports Model 1275",Sports,ActiveLife,155,100.75,2020-12-24,375,55
+PROD-0276,"ReadMore Books Model 1276",Books,ReadMore,13,8.45,2021-01-25,376,56
+PROD-0277,"GlowUp Beauty Model 1277",Beauty,GlowUp,77,50.05,2022-02-26,377,57
+PROD-0278,"AutoPro Automotive Model 1278",Automotive,AutoPro,158,102.7,2023-03-27,378,58
+PROD-0279,"PlayFun Toys Model 1279",Toys,PlayFun,159,103.35,2024-04-28,379,59
+PROD-0280,"TechnoCore Electronics Model 1280",Electronics,TechnoCore,430,279.5,2020-05-01,380,60
+PROD-0281,"StyleMax Clothing Model 1281",Clothing,StyleMax,161,104.65,2021-06-02,381,61
+PROD-0282,"HomeComfort Home & Garden Model 1282",Home & Garden,HomeComfort,162,105.3,2022-07-03,382,62
+PROD-0283,"ActiveLife Sports Model 1283",Sports,ActiveLife,163,105.95,2023-08-04,383,63
+PROD-0284,"ReadMore Books Model 1284",Books,ReadMore,21,13.65,2024-09-05,384,64
+PROD-0285,"GlowUp Beauty Model 1285",Beauty,GlowUp,85,55.25,2020-10-06,385,65
+PROD-0286,"AutoPro Automotive Model 1286",Automotive,AutoPro,166,107.9,2021-11-07,386,66
+PROD-0287,"PlayFun Toys Model 1287",Toys,PlayFun,167,108.55,2022-12-08,387,67
+PROD-0288,"TechnoCore Electronics Model 1288",Electronics,TechnoCore,438,284.7,2023-01-09,388,68
+PROD-0289,"StyleMax Clothing Model 1289",Clothing,StyleMax,169,109.85,2024-02-10,389,69
+PROD-0290,"HomeComfort Home & Garden Model 1290",Home & Garden,HomeComfort,170,110.5,2020-03-11,390,70
+PROD-0291,"ActiveLife Sports Model 1291",Sports,ActiveLife,171,111.15,2021-04-12,391,71
+PROD-0292,"ReadMore Books Model 1292",Books,ReadMore,29,18.85,2022-05-13,392,72
+PROD-0293,"GlowUp Beauty Model 1293",Beauty,GlowUp,93,60.45,2023-06-14,393,73
+PROD-0294,"AutoPro Automotive Model 1294",Automotive,AutoPro,174,113.1,2024-07-15,394,74
+PROD-0295,"PlayFun Toys Model 1295",Toys,PlayFun,175,113.75,2020-08-16,395,75
+PROD-0296,"TechnoCore Electronics Model 1296",Electronics,TechnoCore,446,289.9,2021-09-17,396,76
+PROD-0297,"StyleMax Clothing Model 1297",Clothing,StyleMax,177,115.05,2022-10-18,397,77
+PROD-0298,"HomeComfort Home & Garden Model 1298",Home & Garden,HomeComfort,178,115.7,2023-11-19,398,78
+PROD-0299,"ActiveLife Sports Model 1299",Sports,ActiveLife,179,116.35,2024-12-20,399,79
+PROD-0300,"ReadMore Books Model 1300",Books,ReadMore,12,7.8,2020-01-21,400,80
+PROD-0301,"GlowUp Beauty Model 1301",Beauty,GlowUp,26,16.9,2021-02-22,401,81
+PROD-0302,"AutoPro Automotive Model 1302",Automotive,AutoPro,32,20.8,2022-03-23,402,82
+PROD-0303,"PlayFun Toys Model 1303",Toys,PlayFun,33,21.45,2023-04-24,403,83
+PROD-0304,"TechnoCore Electronics Model 1304",Electronics,TechnoCore,154,100.1,2024-05-25,404,84
+PROD-0305,"StyleMax Clothing Model 1305",Clothing,StyleMax,35,22.75,2020-06-26,405,85
+PROD-0306,"HomeComfort Home & Garden Model 1306",Home & Garden,HomeComfort,36,23.4,2021-07-27,406,86
+PROD-0307,"ActiveLife Sports Model 1307",Sports,ActiveLife,37,24.05,2022-08-28,407,87
+PROD-0308,"ReadMore Books Model 1308",Books,ReadMore,20,13,2023-09-01,408,88
+PROD-0309,"GlowUp Beauty Model 1309",Beauty,GlowUp,34,22.1,2024-10-02,409,89
+PROD-0310,"AutoPro Automotive Model 1310",Automotive,AutoPro,40,26,2020-11-03,410,90
+PROD-0311,"PlayFun Toys Model 1311",Toys,PlayFun,41,26.65,2021-12-04,411,91
+PROD-0312,"TechnoCore Electronics Model 1312",Electronics,TechnoCore,162,105.3,2022-01-05,412,92
+PROD-0313,"StyleMax Clothing Model 1313",Clothing,StyleMax,43,27.95,2023-02-06,413,93
+PROD-0314,"HomeComfort Home & Garden Model 1314",Home & Garden,HomeComfort,44,28.6,2024-03-07,414,94
+PROD-0315,"ActiveLife Sports Model 1315",Sports,ActiveLife,45,29.25,2020-04-08,415,95
+PROD-0316,"ReadMore Books Model 1316",Books,ReadMore,28,18.2,2021-05-09,416,96
+PROD-0317,"GlowUp Beauty Model 1317",Beauty,GlowUp,42,27.3,2022-06-10,417,97
+PROD-0318,"AutoPro Automotive Model 1318",Automotive,AutoPro,48,31.2,2023-07-11,418,98
+PROD-0319,"PlayFun Toys Model 1319",Toys,PlayFun,49,31.85,2024-08-12,419,99
+PROD-0320,"TechnoCore Electronics Model 1320",Electronics,TechnoCore,170,110.5,2020-09-13,420,20
+PROD-0321,"StyleMax Clothing Model 1321",Clothing,StyleMax,51,33.15,2021-10-14,421,21
+PROD-0322,"HomeComfort Home & Garden Model 1322",Home & Garden,HomeComfort,52,33.8,2022-11-15,422,22
+PROD-0323,"ActiveLife Sports Model 1323",Sports,ActiveLife,53,34.45,2023-12-16,423,23
+PROD-0324,"ReadMore Books Model 1324",Books,ReadMore,36,23.4,2024-01-17,424,24
+PROD-0325,"GlowUp Beauty Model 1325",Beauty,GlowUp,50,32.5,2020-02-18,425,25
+PROD-0326,"AutoPro Automotive Model 1326",Automotive,AutoPro,56,36.4,2021-03-19,426,26
+PROD-0327,"PlayFun Toys Model 1327",Toys,PlayFun,57,37.05,2022-04-20,427,27
+PROD-0328,"TechnoCore Electronics Model 1328",Electronics,TechnoCore,178,115.7,2023-05-21,428,28
+PROD-0329,"StyleMax Clothing Model 1329",Clothing,StyleMax,59,38.35,2024-06-22,429,29
+PROD-0330,"HomeComfort Home & Garden Model 1330",Home & Garden,HomeComfort,60,39,2020-07-23,430,30
+PROD-0331,"ActiveLife Sports Model 1331",Sports,ActiveLife,61,39.65,2021-08-24,431,31
+PROD-0332,"ReadMore Books Model 1332",Books,ReadMore,19,12.35,2022-09-25,432,32
+PROD-0333,"GlowUp Beauty Model 1333",Beauty,GlowUp,58,37.7,2023-10-26,433,33
+PROD-0334,"AutoPro Automotive Model 1334",Automotive,AutoPro,64,41.6,2024-11-27,434,34
+PROD-0335,"PlayFun Toys Model 1335",Toys,PlayFun,65,42.25,2020-12-28,435,35
+PROD-0336,"TechnoCore Electronics Model 1336",Electronics,TechnoCore,186,120.9,2021-01-01,436,36
+PROD-0337,"StyleMax Clothing Model 1337",Clothing,StyleMax,67,43.55,2022-02-02,437,37
+PROD-0338,"HomeComfort Home & Garden Model 1338",Home & Garden,HomeComfort,68,44.2,2023-03-03,438,38
+PROD-0339,"ActiveLife Sports Model 1339",Sports,ActiveLife,69,44.85,2024-04-04,439,39
+PROD-0340,"ReadMore Books Model 1340",Books,ReadMore,27,17.55,2020-05-05,440,40
+PROD-0341,"GlowUp Beauty Model 1341",Beauty,GlowUp,66,42.9,2021-06-06,441,41
+PROD-0342,"AutoPro Automotive Model 1342",Automotive,AutoPro,72,46.8,2022-07-07,442,42
+PROD-0343,"PlayFun Toys Model 1343",Toys,PlayFun,73,47.45,2023-08-08,443,43
+PROD-0344,"TechnoCore Electronics Model 1344",Electronics,TechnoCore,194,126.1,2024-09-09,444,44
+PROD-0345,"StyleMax Clothing Model 1345",Clothing,StyleMax,75,48.75,2020-10-10,445,45
+PROD-0346,"HomeComfort Home & Garden Model 1346",Home & Garden,HomeComfort,76,49.4,2021-11-11,446,46
+PROD-0347,"ActiveLife Sports Model 1347",Sports,ActiveLife,77,50.05,2022-12-12,447,47
+PROD-0348,"ReadMore Books Model 1348",Books,ReadMore,35,22.75,2023-01-13,448,48
+PROD-0349,"GlowUp Beauty Model 1349",Beauty,GlowUp,74,48.1,2024-02-14,449,49
+PROD-0350,"AutoPro Automotive Model 1350",Automotive,AutoPro,80,52,2020-03-15,450,50
+PROD-0351,"PlayFun Toys Model 1351",Toys,PlayFun,81,52.65,2021-04-16,451,51
+PROD-0352,"TechnoCore Electronics Model 1352",Electronics,TechnoCore,202,131.3,2022-05-17,452,52
+PROD-0353,"StyleMax Clothing Model 1353",Clothing,StyleMax,83,53.95,2023-06-18,453,53
+PROD-0354,"HomeComfort Home & Garden Model 1354",Home & Garden,HomeComfort,84,54.6,2024-07-19,454,54
+PROD-0355,"ActiveLife Sports Model 1355",Sports,ActiveLife,85,55.25,2020-08-20,455,55
+PROD-0356,"ReadMore Books Model 1356",Books,ReadMore,18,11.7,2021-09-21,456,56
+PROD-0357,"GlowUp Beauty Model 1357",Beauty,GlowUp,82,53.3,2022-10-22,457,57
+PROD-0358,"AutoPro Automotive Model 1358",Automotive,AutoPro,88,57.2,2023-11-23,458,58
+PROD-0359,"PlayFun Toys Model 1359",Toys,PlayFun,89,57.85,2024-12-24,459,59
+PROD-0360,"TechnoCore Electronics Model 1360",Electronics,TechnoCore,210,136.5,2020-01-25,460,60
+PROD-0361,"StyleMax Clothing Model 1361",Clothing,StyleMax,91,59.15,2021-02-26,461,61
+PROD-0362,"HomeComfort Home & Garden Model 1362",Home & Garden,HomeComfort,92,59.8,2022-03-27,462,62
+PROD-0363,"ActiveLife Sports Model 1363",Sports,ActiveLife,93,60.45,2023-04-28,463,63
+PROD-0364,"ReadMore Books Model 1364",Books,ReadMore,26,16.9,2024-05-01,464,64
+PROD-0365,"GlowUp Beauty Model 1365",Beauty,GlowUp,90,58.5,2020-06-02,465,65
+PROD-0366,"AutoPro Automotive Model 1366",Automotive,AutoPro,96,62.4,2021-07-03,466,66
+PROD-0367,"PlayFun Toys Model 1367",Toys,PlayFun,97,63.05,2022-08-04,467,67
+PROD-0368,"TechnoCore Electronics Model 1368",Electronics,TechnoCore,218,141.7,2023-09-05,468,68
+PROD-0369,"StyleMax Clothing Model 1369",Clothing,StyleMax,99,64.35,2024-10-06,469,69
+PROD-0370,"HomeComfort Home & Garden Model 1370",Home & Garden,HomeComfort,100,65,2020-11-07,470,70
+PROD-0371,"ActiveLife Sports Model 1371",Sports,ActiveLife,101,65.65,2021-12-08,471,71
+PROD-0372,"ReadMore Books Model 1372",Books,ReadMore,34,22.1,2022-01-09,472,72
+PROD-0373,"GlowUp Beauty Model 1373",Beauty,GlowUp,98,63.7,2023-02-10,473,73
+PROD-0374,"AutoPro Automotive Model 1374",Automotive,AutoPro,104,67.6,2024-03-11,474,74
+PROD-0375,"PlayFun Toys Model 1375",Toys,PlayFun,105,68.25,2020-04-12,475,75
+PROD-0376,"TechnoCore Electronics Model 1376",Electronics,TechnoCore,226,146.9,2021-05-13,476,76
+PROD-0377,"StyleMax Clothing Model 1377",Clothing,StyleMax,107,69.55,2022-06-14,477,77
+PROD-0378,"HomeComfort Home & Garden Model 1378",Home & Garden,HomeComfort,108,70.2,2023-07-15,478,78
+PROD-0379,"ActiveLife Sports Model 1379",Sports,ActiveLife,109,70.85,2024-08-16,479,79
+PROD-0380,"ReadMore Books Model 1380",Books,ReadMore,17,11.05,2020-09-17,480,80
+PROD-0381,"GlowUp Beauty Model 1381",Beauty,GlowUp,31,20.15,2021-10-18,481,81
+PROD-0382,"AutoPro Automotive Model 1382",Automotive,AutoPro,112,72.8,2022-11-19,482,82
+PROD-0383,"PlayFun Toys Model 1383",Toys,PlayFun,113,73.45,2023-12-20,483,83
+PROD-0384,"TechnoCore Electronics Model 1384",Electronics,TechnoCore,234,152.1,2024-01-21,484,84
+PROD-0385,"StyleMax Clothing Model 1385",Clothing,StyleMax,115,74.75,2020-02-22,485,85
+PROD-0386,"HomeComfort Home & Garden Model 1386",Home & Garden,HomeComfort,116,75.4,2021-03-23,486,86
+PROD-0387,"ActiveLife Sports Model 1387",Sports,ActiveLife,117,76.05,2022-04-24,487,87
+PROD-0388,"ReadMore Books Model 1388",Books,ReadMore,25,16.25,2023-05-25,488,88
+PROD-0389,"GlowUp Beauty Model 1389",Beauty,GlowUp,39,25.35,2024-06-26,489,89
+PROD-0390,"AutoPro Automotive Model 1390",Automotive,AutoPro,120,78,2020-07-27,490,90
+PROD-0391,"PlayFun Toys Model 1391",Toys,PlayFun,121,78.65,2021-08-28,491,91
+PROD-0392,"TechnoCore Electronics Model 1392",Electronics,TechnoCore,242,157.3,2022-09-01,492,92
+PROD-0393,"StyleMax Clothing Model 1393",Clothing,StyleMax,123,79.95,2023-10-02,493,93
+PROD-0394,"HomeComfort Home & Garden Model 1394",Home & Garden,HomeComfort,124,80.6,2024-11-03,494,94
+PROD-0395,"ActiveLife Sports Model 1395",Sports,ActiveLife,125,81.25,2020-12-04,495,95
+PROD-0396,"ReadMore Books Model 1396",Books,ReadMore,33,21.45,2021-01-05,496,96
+PROD-0397,"GlowUp Beauty Model 1397",Beauty,GlowUp,47,30.55,2022-02-06,497,97
+PROD-0398,"AutoPro Automotive Model 1398",Automotive,AutoPro,128,83.2,2023-03-07,498,98
+PROD-0399,"PlayFun Toys Model 1399",Toys,PlayFun,129,83.85,2024-04-08,499,99
+PROD-0400,"TechnoCore Electronics Model 1400",Electronics,TechnoCore,250,162.5,2020-05-09,100,20
+PROD-0401,"StyleMax Clothing Model 1401",Clothing,StyleMax,131,85.15,2021-06-10,101,21
+PROD-0402,"HomeComfort Home & Garden Model 1402",Home & Garden,HomeComfort,132,85.8,2022-07-11,102,22
+PROD-0403,"ActiveLife Sports Model 1403",Sports,ActiveLife,133,86.45,2023-08-12,103,23
+PROD-0404,"ReadMore Books Model 1404",Books,ReadMore,16,10.4,2024-09-13,104,24
+PROD-0405,"GlowUp Beauty Model 1405",Beauty,GlowUp,55,35.75,2020-10-14,105,25
+PROD-0406,"AutoPro Automotive Model 1406",Automotive,AutoPro,136,88.4,2021-11-15,106,26
+PROD-0407,"PlayFun Toys Model 1407",Toys,PlayFun,137,89.05,2022-12-16,107,27
+PROD-0408,"TechnoCore Electronics Model 1408",Electronics,TechnoCore,258,167.7,2023-01-17,108,28
+PROD-0409,"StyleMax Clothing Model 1409",Clothing,StyleMax,139,90.35,2024-02-18,109,29
+PROD-0410,"HomeComfort Home & Garden Model 1410",Home & Garden,HomeComfort,140,91,2020-03-19,110,30
+PROD-0411,"ActiveLife Sports Model 1411",Sports,ActiveLife,141,91.65,2021-04-20,111,31
+PROD-0412,"ReadMore Books Model 1412",Books,ReadMore,24,15.6,2022-05-21,112,32
+PROD-0413,"GlowUp Beauty Model 1413",Beauty,GlowUp,63,40.95,2023-06-22,113,33
+PROD-0414,"AutoPro Automotive Model 1414",Automotive,AutoPro,144,93.6,2024-07-23,114,34
+PROD-0415,"PlayFun Toys Model 1415",Toys,PlayFun,145,94.25,2020-08-24,115,35
+PROD-0416,"TechnoCore Electronics Model 1416",Electronics,TechnoCore,266,172.9,2021-09-25,116,36
+PROD-0417,"StyleMax Clothing Model 1417",Clothing,StyleMax,147,95.55,2022-10-26,117,37
+PROD-0418,"HomeComfort Home & Garden Model 1418",Home & Garden,HomeComfort,148,96.2,2023-11-27,118,38
+PROD-0419,"ActiveLife Sports Model 1419",Sports,ActiveLife,149,96.85,2024-12-28,119,39
+PROD-0420,"ReadMore Books Model 1420",Books,ReadMore,32,20.8,2020-01-01,120,40
+PROD-0421,"GlowUp Beauty Model 1421",Beauty,GlowUp,71,46.15,2021-02-02,121,41
+PROD-0422,"AutoPro Automotive Model 1422",Automotive,AutoPro,152,98.8,2022-03-03,122,42
+PROD-0423,"PlayFun Toys Model 1423",Toys,PlayFun,153,99.45,2023-04-04,123,43
+PROD-0424,"TechnoCore Electronics Model 1424",Electronics,TechnoCore,274,178.1,2024-05-05,124,44
+PROD-0425,"StyleMax Clothing Model 1425",Clothing,StyleMax,155,100.75,2020-06-06,125,45
+PROD-0426,"HomeComfort Home & Garden Model 1426",Home & Garden,HomeComfort,156,101.4,2021-07-07,126,46
+PROD-0427,"ActiveLife Sports Model 1427",Sports,ActiveLife,157,102.05,2022-08-08,127,47
+PROD-0428,"ReadMore Books Model 1428",Books,ReadMore,15,9.75,2023-09-09,128,48
+PROD-0429,"GlowUp Beauty Model 1429",Beauty,GlowUp,79,51.35,2024-10-10,129,49
+PROD-0430,"AutoPro Automotive Model 1430",Automotive,AutoPro,160,104,2020-11-11,130,50
+PROD-0431,"PlayFun Toys Model 1431",Toys,PlayFun,161,104.65,2021-12-12,131,51
+PROD-0432,"TechnoCore Electronics Model 1432",Electronics,TechnoCore,282,183.3,2022-01-13,132,52
+PROD-0433,"StyleMax Clothing Model 1433",Clothing,StyleMax,163,105.95,2023-02-14,133,53
+PROD-0434,"HomeComfort Home & Garden Model 1434",Home & Garden,HomeComfort,164,106.6,2024-03-15,134,54
+PROD-0435,"ActiveLife Sports Model 1435",Sports,ActiveLife,165,107.25,2020-04-16,135,55
+PROD-0436,"ReadMore Books Model 1436",Books,ReadMore,23,14.95,2021-05-17,136,56
+PROD-0437,"GlowUp Beauty Model 1437",Beauty,GlowUp,87,56.55,2022-06-18,137,57
+PROD-0438,"AutoPro Automotive Model 1438",Automotive,AutoPro,168,109.2,2023-07-19,138,58
+PROD-0439,"PlayFun Toys Model 1439",Toys,PlayFun,169,109.85,2024-08-20,139,59
+PROD-0440,"TechnoCore Electronics Model 1440",Electronics,TechnoCore,290,188.5,2020-09-21,140,60
+PROD-0441,"StyleMax Clothing Model 1441",Clothing,StyleMax,171,111.15,2021-10-22,141,61
+PROD-0442,"HomeComfort Home & Garden Model 1442",Home & Garden,HomeComfort,172,111.8,2022-11-23,142,62
+PROD-0443,"ActiveLife Sports Model 1443",Sports,ActiveLife,173,112.45,2023-12-24,143,63
+PROD-0444,"ReadMore Books Model 1444",Books,ReadMore,31,20.15,2024-01-25,144,64
+PROD-0445,"GlowUp Beauty Model 1445",Beauty,GlowUp,95,61.75,2020-02-26,145,65
+PROD-0446,"AutoPro Automotive Model 1446",Automotive,AutoPro,176,114.4,2021-03-27,146,66
+PROD-0447,"PlayFun Toys Model 1447",Toys,PlayFun,177,115.05,2022-04-28,147,67
+PROD-0448,"TechnoCore Electronics Model 1448",Electronics,TechnoCore,298,193.7,2023-05-01,148,68
+PROD-0449,"StyleMax Clothing Model 1449",Clothing,StyleMax,179,116.35,2024-06-02,149,69
+PROD-0450,"HomeComfort Home & Garden Model 1450",Home & Garden,HomeComfort,30,19.5,2020-07-03,150,70
+PROD-0451,"ActiveLife Sports Model 1451",Sports,ActiveLife,31,20.15,2021-08-04,151,71
+PROD-0452,"ReadMore Books Model 1452",Books,ReadMore,14,9.1,2022-09-05,152,72
+PROD-0453,"GlowUp Beauty Model 1453",Beauty,GlowUp,28,18.2,2023-10-06,153,73
+PROD-0454,"AutoPro Automotive Model 1454",Automotive,AutoPro,34,22.1,2024-11-07,154,74
+PROD-0455,"PlayFun Toys Model 1455",Toys,PlayFun,35,22.75,2020-12-08,155,75
+PROD-0456,"TechnoCore Electronics Model 1456",Electronics,TechnoCore,306,198.9,2021-01-09,156,76
+PROD-0457,"StyleMax Clothing Model 1457",Clothing,StyleMax,37,24.05,2022-02-10,157,77
+PROD-0458,"HomeComfort Home & Garden Model 1458",Home & Garden,HomeComfort,38,24.7,2023-03-11,158,78
+PROD-0459,"ActiveLife Sports Model 1459",Sports,ActiveLife,39,25.35,2024-04-12,159,79
+PROD-0460,"ReadMore Books Model 1460",Books,ReadMore,22,14.3,2020-05-13,160,80
+PROD-0461,"GlowUp Beauty Model 1461",Beauty,GlowUp,36,23.4,2021-06-14,161,81
+PROD-0462,"AutoPro Automotive Model 1462",Automotive,AutoPro,42,27.3,2022-07-15,162,82
+PROD-0463,"PlayFun Toys Model 1463",Toys,PlayFun,43,27.95,2023-08-16,163,83
+PROD-0464,"TechnoCore Electronics Model 1464",Electronics,TechnoCore,314,204.1,2024-09-17,164,84
+PROD-0465,"StyleMax Clothing Model 1465",Clothing,StyleMax,45,29.25,2020-10-18,165,85
+PROD-0466,"HomeComfort Home & Garden Model 1466",Home & Garden,HomeComfort,46,29.9,2021-11-19,166,86
+PROD-0467,"ActiveLife Sports Model 1467",Sports,ActiveLife,47,30.55,2022-12-20,167,87
+PROD-0468,"ReadMore Books Model 1468",Books,ReadMore,30,19.5,2023-01-21,168,88
+PROD-0469,"GlowUp Beauty Model 1469",Beauty,GlowUp,44,28.6,2024-02-22,169,89
+PROD-0470,"AutoPro Automotive Model 1470",Automotive,AutoPro,50,32.5,2020-03-23,170,90
+PROD-0471,"PlayFun Toys Model 1471",Toys,PlayFun,51,33.15,2021-04-24,171,91
+PROD-0472,"TechnoCore Electronics Model 1472",Electronics,TechnoCore,322,209.3,2022-05-25,172,92
+PROD-0473,"StyleMax Clothing Model 1473",Clothing,StyleMax,53,34.45,2023-06-26,173,93
+PROD-0474,"HomeComfort Home & Garden Model 1474",Home & Garden,HomeComfort,54,35.1,2024-07-27,174,94
+PROD-0475,"ActiveLife Sports Model 1475",Sports,ActiveLife,55,35.75,2020-08-28,175,95
+PROD-0476,"ReadMore Books Model 1476",Books,ReadMore,13,8.45,2021-09-01,176,96
+PROD-0477,"GlowUp Beauty Model 1477",Beauty,GlowUp,52,33.8,2022-10-02,177,97
+PROD-0478,"AutoPro Automotive Model 1478",Automotive,AutoPro,58,37.7,2023-11-03,178,98
+PROD-0479,"PlayFun Toys Model 1479",Toys,PlayFun,59,38.35,2024-12-04,179,99
+PROD-0480,"TechnoCore Electronics Model 1480",Electronics,TechnoCore,330,214.5,2020-01-05,180,20
+PROD-0481,"StyleMax Clothing Model 1481",Clothing,StyleMax,61,39.65,2021-02-06,181,21
+PROD-0482,"HomeComfort Home & Garden Model 1482",Home & Garden,HomeComfort,62,40.3,2022-03-07,182,22
+PROD-0483,"ActiveLife Sports Model 1483",Sports,ActiveLife,63,40.95,2023-04-08,183,23
+PROD-0484,"ReadMore Books Model 1484",Books,ReadMore,21,13.65,2024-05-09,184,24
+PROD-0485,"GlowUp Beauty Model 1485",Beauty,GlowUp,60,39,2020-06-10,185,25
+PROD-0486,"AutoPro Automotive Model 1486",Automotive,AutoPro,66,42.9,2021-07-11,186,26
+PROD-0487,"PlayFun Toys Model 1487",Toys,PlayFun,67,43.55,2022-08-12,187,27
+PROD-0488,"TechnoCore Electronics Model 1488",Electronics,TechnoCore,338,219.7,2023-09-13,188,28
+PROD-0489,"StyleMax Clothing Model 1489",Clothing,StyleMax,69,44.85,2024-10-14,189,29
+PROD-0490,"HomeComfort Home & Garden Model 1490",Home & Garden,HomeComfort,70,45.5,2020-11-15,190,30
+PROD-0491,"ActiveLife Sports Model 1491",Sports,ActiveLife,71,46.15,2021-12-16,191,31
+PROD-0492,"ReadMore Books Model 1492",Books,ReadMore,29,18.85,2022-01-17,192,32
+PROD-0493,"GlowUp Beauty Model 1493",Beauty,GlowUp,68,44.2,2023-02-18,193,33
+PROD-0494,"AutoPro Automotive Model 1494",Automotive,AutoPro,74,48.1,2024-03-19,194,34
+PROD-0495,"PlayFun Toys Model 1495",Toys,PlayFun,75,48.75,2020-04-20,195,35
+PROD-0496,"TechnoCore Electronics Model 1496",Electronics,TechnoCore,346,224.9,2021-05-21,196,36
+PROD-0497,"StyleMax Clothing Model 1497",Clothing,StyleMax,77,50.05,2022-06-22,197,37
+PROD-0498,"HomeComfort Home & Garden Model 1498",Home & Garden,HomeComfort,78,50.7,2023-07-23,198,38
+PROD-0499,"ActiveLife Sports Model 1499",Sports,ActiveLife,79,51.35,2024-08-24,199,39
+PROD-0500,"ReadMore Books Model 1500",Books,ReadMore,12,7.8,2020-09-25,200,40
+PROD-0501,"GlowUp Beauty Model 1501",Beauty,GlowUp,76,49.4,2021-10-26,201,41
+PROD-0502,"AutoPro Automotive Model 1502",Automotive,AutoPro,82,53.3,2022-11-27,202,42
+PROD-0503,"PlayFun Toys Model 1503",Toys,PlayFun,83,53.95,2023-12-28,203,43
+PROD-0504,"TechnoCore Electronics Model 1504",Electronics,TechnoCore,354,230.1,2024-01-01,204,44
+PROD-0505,"StyleMax Clothing Model 1505",Clothing,StyleMax,85,55.25,2020-02-02,205,45
+PROD-0506,"HomeComfort Home & Garden Model 1506",Home & Garden,HomeComfort,86,55.9,2021-03-03,206,46
+PROD-0507,"ActiveLife Sports Model 1507",Sports,ActiveLife,87,56.55,2022-04-04,207,47
+PROD-0508,"ReadMore Books Model 1508",Books,ReadMore,20,13,2023-05-05,208,48
+PROD-0509,"GlowUp Beauty Model 1509",Beauty,GlowUp,84,54.6,2024-06-06,209,49
+PROD-0510,"AutoPro Automotive Model 1510",Automotive,AutoPro,90,58.5,2020-07-07,210,50
+PROD-0511,"PlayFun Toys Model 1511",Toys,PlayFun,91,59.15,2021-08-08,211,51
+PROD-0512,"TechnoCore Electronics Model 1512",Electronics,TechnoCore,362,235.3,2022-09-09,212,52
+PROD-0513,"StyleMax Clothing Model 1513",Clothing,StyleMax,93,60.45,2023-10-10,213,53
+PROD-0514,"HomeComfort Home & Garden Model 1514",Home & Garden,HomeComfort,94,61.1,2024-11-11,214,54
+PROD-0515,"ActiveLife Sports Model 1515",Sports,ActiveLife,95,61.75,2020-12-12,215,55
+PROD-0516,"ReadMore Books Model 1516",Books,ReadMore,28,18.2,2021-01-13,216,56
+PROD-0517,"GlowUp Beauty Model 1517",Beauty,GlowUp,92,59.8,2022-02-14,217,57
+PROD-0518,"AutoPro Automotive Model 1518",Automotive,AutoPro,98,63.7,2023-03-15,218,58
+PROD-0519,"PlayFun Toys Model 1519",Toys,PlayFun,99,64.35,2024-04-16,219,59
+PROD-0520,"TechnoCore Electronics Model 1520",Electronics,TechnoCore,370,240.5,2020-05-17,220,60
+PROD-0521,"StyleMax Clothing Model 1521",Clothing,StyleMax,101,65.65,2021-06-18,221,61
+PROD-0522,"HomeComfort Home & Garden Model 1522",Home & Garden,HomeComfort,102,66.3,2022-07-19,222,62
+PROD-0523,"ActiveLife Sports Model 1523",Sports,ActiveLife,103,66.95,2023-08-20,223,63
+PROD-0524,"ReadMore Books Model 1524",Books,ReadMore,36,23.4,2024-09-21,224,64
+PROD-0525,"GlowUp Beauty Model 1525",Beauty,GlowUp,25,16.25,2020-10-22,225,65
+PROD-0526,"AutoPro Automotive Model 1526",Automotive,AutoPro,106,68.9,2021-11-23,226,66
+PROD-0527,"PlayFun Toys Model 1527",Toys,PlayFun,107,69.55,2022-12-24,227,67
+PROD-0528,"TechnoCore Electronics Model 1528",Electronics,TechnoCore,378,245.7,2023-01-25,228,68
+PROD-0529,"StyleMax Clothing Model 1529",Clothing,StyleMax,109,70.85,2024-02-26,229,69
+PROD-0530,"HomeComfort Home & Garden Model 1530",Home & Garden,HomeComfort,110,71.5,2020-03-27,230,70
+PROD-0531,"ActiveLife Sports Model 1531",Sports,ActiveLife,111,72.15,2021-04-28,231,71
+PROD-0532,"ReadMore Books Model 1532",Books,ReadMore,19,12.35,2022-05-01,232,72
+PROD-0533,"GlowUp Beauty Model 1533",Beauty,GlowUp,33,21.45,2023-06-02,233,73
+PROD-0534,"AutoPro Automotive Model 1534",Automotive,AutoPro,114,74.1,2024-07-03,234,74
+PROD-0535,"PlayFun Toys Model 1535",Toys,PlayFun,115,74.75,2020-08-04,235,75
+PROD-0536,"TechnoCore Electronics Model 1536",Electronics,TechnoCore,386,250.9,2021-09-05,236,76
+PROD-0537,"StyleMax Clothing Model 1537",Clothing,StyleMax,117,76.05,2022-10-06,237,77
+PROD-0538,"HomeComfort Home & Garden Model 1538",Home & Garden,HomeComfort,118,76.7,2023-11-07,238,78
+PROD-0539,"ActiveLife Sports Model 1539",Sports,ActiveLife,119,77.35,2024-12-08,239,79
+PROD-0540,"ReadMore Books Model 1540",Books,ReadMore,27,17.55,2020-01-09,240,80
+PROD-0541,"GlowUp Beauty Model 1541",Beauty,GlowUp,41,26.65,2021-02-10,241,81
+PROD-0542,"AutoPro Automotive Model 1542",Automotive,AutoPro,122,79.3,2022-03-11,242,82
+PROD-0543,"PlayFun Toys Model 1543",Toys,PlayFun,123,79.95,2023-04-12,243,83
+PROD-0544,"TechnoCore Electronics Model 1544",Electronics,TechnoCore,394,256.1,2024-05-13,244,84
+PROD-0545,"StyleMax Clothing Model 1545",Clothing,StyleMax,125,81.25,2020-06-14,245,85
+PROD-0546,"HomeComfort Home & Garden Model 1546",Home & Garden,HomeComfort,126,81.9,2021-07-15,246,86
+PROD-0547,"ActiveLife Sports Model 1547",Sports,ActiveLife,127,82.55,2022-08-16,247,87
+PROD-0548,"ReadMore Books Model 1548",Books,ReadMore,35,22.75,2023-09-17,248,88
+PROD-0549,"GlowUp Beauty Model 1549",Beauty,GlowUp,49,31.85,2024-10-18,249,89
+PROD-0550,"AutoPro Automotive Model 1550",Automotive,AutoPro,130,84.5,2020-11-19,250,90
+PROD-0551,"PlayFun Toys Model 1551",Toys,PlayFun,131,85.15,2021-12-20,251,91
+PROD-0552,"TechnoCore Electronics Model 1552",Electronics,TechnoCore,402,261.3,2022-01-21,252,92
+PROD-0553,"StyleMax Clothing Model 1553",Clothing,StyleMax,133,86.45,2023-02-22,253,93
+PROD-0554,"HomeComfort Home & Garden Model 1554",Home & Garden,HomeComfort,134,87.1,2024-03-23,254,94
+PROD-0555,"ActiveLife Sports Model 1555",Sports,ActiveLife,135,87.75,2020-04-24,255,95
+PROD-0556,"ReadMore Books Model 1556",Books,ReadMore,18,11.7,2021-05-25,256,96
+PROD-0557,"GlowUp Beauty Model 1557",Beauty,GlowUp,57,37.05,2022-06-26,257,97
+PROD-0558,"AutoPro Automotive Model 1558",Automotive,AutoPro,138,89.7,2023-07-27,258,98
+PROD-0559,"PlayFun Toys Model 1559",Toys,PlayFun,139,90.35,2024-08-28,259,99
+PROD-0560,"TechnoCore Electronics Model 1560",Electronics,TechnoCore,410,266.5,2020-09-01,260,20
+PROD-0561,"StyleMax Clothing Model 1561",Clothing,StyleMax,141,91.65,2021-10-02,261,21
+PROD-0562,"HomeComfort Home & Garden Model 1562",Home & Garden,HomeComfort,142,92.3,2022-11-03,262,22
+PROD-0563,"ActiveLife Sports Model 1563",Sports,ActiveLife,143,92.95,2023-12-04,263,23
+PROD-0564,"ReadMore Books Model 1564",Books,ReadMore,26,16.9,2024-01-05,264,24
+PROD-0565,"GlowUp Beauty Model 1565",Beauty,GlowUp,65,42.25,2020-02-06,265,25
+PROD-0566,"AutoPro Automotive Model 1566",Automotive,AutoPro,146,94.9,2021-03-07,266,26
+PROD-0567,"PlayFun Toys Model 1567",Toys,PlayFun,147,95.55,2022-04-08,267,27
+PROD-0568,"TechnoCore Electronics Model 1568",Electronics,TechnoCore,418,271.7,2023-05-09,268,28
+PROD-0569,"StyleMax Clothing Model 1569",Clothing,StyleMax,149,96.85,2024-06-10,269,29
+PROD-0570,"HomeComfort Home & Garden Model 1570",Home & Garden,HomeComfort,150,97.5,2020-07-11,270,30
+PROD-0571,"ActiveLife Sports Model 1571",Sports,ActiveLife,151,98.15,2021-08-12,271,31
+PROD-0572,"ReadMore Books Model 1572",Books,ReadMore,34,22.1,2022-09-13,272,32
+PROD-0573,"GlowUp Beauty Model 1573",Beauty,GlowUp,73,47.45,2023-10-14,273,33
+PROD-0574,"AutoPro Automotive Model 1574",Automotive,AutoPro,154,100.1,2024-11-15,274,34
+PROD-0575,"PlayFun Toys Model 1575",Toys,PlayFun,155,100.75,2020-12-16,275,35
+PROD-0576,"TechnoCore Electronics Model 1576",Electronics,TechnoCore,426,276.9,2021-01-17,276,36
+PROD-0577,"StyleMax Clothing Model 1577",Clothing,StyleMax,157,102.05,2022-02-18,277,37
+PROD-0578,"HomeComfort Home & Garden Model 1578",Home & Garden,HomeComfort,158,102.7,2023-03-19,278,38
+PROD-0579,"ActiveLife Sports Model 1579",Sports,ActiveLife,159,103.35,2024-04-20,279,39
+PROD-0580,"ReadMore Books Model 1580",Books,ReadMore,17,11.05,2020-05-21,280,40
+PROD-0581,"GlowUp Beauty Model 1581",Beauty,GlowUp,81,52.65,2021-06-22,281,41
+PROD-0582,"AutoPro Automotive Model 1582",Automotive,AutoPro,162,105.3,2022-07-23,282,42
+PROD-0583,"PlayFun Toys Model 1583",Toys,PlayFun,163,105.95,2023-08-24,283,43
+PROD-0584,"TechnoCore Electronics Model 1584",Electronics,TechnoCore,434,282.1,2024-09-25,284,44
+PROD-0585,"StyleMax Clothing Model 1585",Clothing,StyleMax,165,107.25,2020-10-26,285,45
+PROD-0586,"HomeComfort Home & Garden Model 1586",Home & Garden,HomeComfort,166,107.9,2021-11-27,286,46
+PROD-0587,"ActiveLife Sports Model 1587",Sports,ActiveLife,167,108.55,2022-12-28,287,47
+PROD-0588,"ReadMore Books Model 1588",Books,ReadMore,25,16.25,2023-01-01,288,48
+PROD-0589,"GlowUp Beauty Model 1589",Beauty,GlowUp,89,57.85,2024-02-02,289,49
+PROD-0590,"AutoPro Automotive Model 1590",Automotive,AutoPro,170,110.5,2020-03-03,290,50
+PROD-0591,"PlayFun Toys Model 1591",Toys,PlayFun,171,111.15,2021-04-04,291,51
+PROD-0592,"TechnoCore Electronics Model 1592",Electronics,TechnoCore,442,287.3,2022-05-05,292,52
+PROD-0593,"StyleMax Clothing Model 1593",Clothing,StyleMax,173,112.45,2023-06-06,293,53
+PROD-0594,"HomeComfort Home & Garden Model 1594",Home & Garden,HomeComfort,174,113.1,2024-07-07,294,54
+PROD-0595,"ActiveLife Sports Model 1595",Sports,ActiveLife,175,113.75,2020-08-08,295,55
+PROD-0596,"ReadMore Books Model 1596",Books,ReadMore,33,21.45,2021-09-09,296,56
+PROD-0597,"GlowUp Beauty Model 1597",Beauty,GlowUp,97,63.05,2022-10-10,297,57
+PROD-0598,"AutoPro Automotive Model 1598",Automotive,AutoPro,178,115.7,2023-11-11,298,58
+PROD-0599,"PlayFun Toys Model 1599",Toys,PlayFun,179,116.35,2024-12-12,299,59
+PROD-0600,"TechnoCore Electronics Model 1600",Electronics,TechnoCore,150,97.5,2020-01-13,300,60
+PROD-0601,"StyleMax Clothing Model 1601",Clothing,StyleMax,31,20.15,2021-02-14,301,61
+PROD-0602,"HomeComfort Home & Garden Model 1602",Home & Garden,HomeComfort,32,20.8,2022-03-15,302,62
+PROD-0603,"ActiveLife Sports Model 1603",Sports,ActiveLife,33,21.45,2023-04-16,303,63
+PROD-0604,"ReadMore Books Model 1604",Books,ReadMore,16,10.4,2024-05-17,304,64
+PROD-0605,"GlowUp Beauty Model 1605",Beauty,GlowUp,30,19.5,2020-06-18,305,65
+PROD-0606,"AutoPro Automotive Model 1606",Automotive,AutoPro,36,23.4,2021-07-19,306,66
+PROD-0607,"PlayFun Toys Model 1607",Toys,PlayFun,37,24.05,2022-08-20,307,67
+PROD-0608,"TechnoCore Electronics Model 1608",Electronics,TechnoCore,158,102.7,2023-09-21,308,68
+PROD-0609,"StyleMax Clothing Model 1609",Clothing,StyleMax,39,25.35,2024-10-22,309,69
+PROD-0610,"HomeComfort Home & Garden Model 1610",Home & Garden,HomeComfort,40,26,2020-11-23,310,70
+PROD-0611,"ActiveLife Sports Model 1611",Sports,ActiveLife,41,26.65,2021-12-24,311,71
+PROD-0612,"ReadMore Books Model 1612",Books,ReadMore,24,15.6,2022-01-25,312,72
+PROD-0613,"GlowUp Beauty Model 1613",Beauty,GlowUp,38,24.7,2023-02-26,313,73
+PROD-0614,"AutoPro Automotive Model 1614",Automotive,AutoPro,44,28.6,2024-03-27,314,74
+PROD-0615,"PlayFun Toys Model 1615",Toys,PlayFun,45,29.25,2020-04-28,315,75
+PROD-0616,"TechnoCore Electronics Model 1616",Electronics,TechnoCore,166,107.9,2021-05-01,316,76
+PROD-0617,"StyleMax Clothing Model 1617",Clothing,StyleMax,47,30.55,2022-06-02,317,77
+PROD-0618,"HomeComfort Home & Garden Model 1618",Home & Garden,HomeComfort,48,31.2,2023-07-03,318,78
+PROD-0619,"ActiveLife Sports Model 1619",Sports,ActiveLife,49,31.85,2024-08-04,319,79
+PROD-0620,"ReadMore Books Model 1620",Books,ReadMore,32,20.8,2020-09-05,320,80
+PROD-0621,"GlowUp Beauty Model 1621",Beauty,GlowUp,46,29.9,2021-10-06,321,81
+PROD-0622,"AutoPro Automotive Model 1622",Automotive,AutoPro,52,33.8,2022-11-07,322,82
+PROD-0623,"PlayFun Toys Model 1623",Toys,PlayFun,53,34.45,2023-12-08,323,83
+PROD-0624,"TechnoCore Electronics Model 1624",Electronics,TechnoCore,174,113.1,2024-01-09,324,84
+PROD-0625,"StyleMax Clothing Model 1625",Clothing,StyleMax,55,35.75,2020-02-10,325,85
+PROD-0626,"HomeComfort Home & Garden Model 1626",Home & Garden,HomeComfort,56,36.4,2021-03-11,326,86
+PROD-0627,"ActiveLife Sports Model 1627",Sports,ActiveLife,57,37.05,2022-04-12,327,87
+PROD-0628,"ReadMore Books Model 1628",Books,ReadMore,15,9.75,2023-05-13,328,88
+PROD-0629,"GlowUp Beauty Model 1629",Beauty,GlowUp,54,35.1,2024-06-14,329,89
+PROD-0630,"AutoPro Automotive Model 1630",Automotive,AutoPro,60,39,2020-07-15,330,90
+PROD-0631,"PlayFun Toys Model 1631",Toys,PlayFun,61,39.65,2021-08-16,331,91
+PROD-0632,"TechnoCore Electronics Model 1632",Electronics,TechnoCore,182,118.3,2022-09-17,332,92
+PROD-0633,"StyleMax Clothing Model 1633",Clothing,StyleMax,63,40.95,2023-10-18,333,93
+PROD-0634,"HomeComfort Home & Garden Model 1634",Home & Garden,HomeComfort,64,41.6,2024-11-19,334,94
+PROD-0635,"ActiveLife Sports Model 1635",Sports,ActiveLife,65,42.25,2020-12-20,335,95
+PROD-0636,"ReadMore Books Model 1636",Books,ReadMore,23,14.95,2021-01-21,336,96
+PROD-0637,"GlowUp Beauty Model 1637",Beauty,GlowUp,62,40.3,2022-02-22,337,97
+PROD-0638,"AutoPro Automotive Model 1638",Automotive,AutoPro,68,44.2,2023-03-23,338,98
+PROD-0639,"PlayFun Toys Model 1639",Toys,PlayFun,69,44.85,2024-04-24,339,99
+PROD-0640,"TechnoCore Electronics Model 1640",Electronics,TechnoCore,190,123.5,2020-05-25,340,20
+PROD-0641,"StyleMax Clothing Model 1641",Clothing,StyleMax,71,46.15,2021-06-26,341,21
+PROD-0642,"HomeComfort Home & Garden Model 1642",Home & Garden,HomeComfort,72,46.8,2022-07-27,342,22
+PROD-0643,"ActiveLife Sports Model 1643",Sports,ActiveLife,73,47.45,2023-08-28,343,23
+PROD-0644,"ReadMore Books Model 1644",Books,ReadMore,31,20.15,2024-09-01,344,24
+PROD-0645,"GlowUp Beauty Model 1645",Beauty,GlowUp,70,45.5,2020-10-02,345,25
+PROD-0646,"AutoPro Automotive Model 1646",Automotive,AutoPro,76,49.4,2021-11-03,346,26
+PROD-0647,"PlayFun Toys Model 1647",Toys,PlayFun,77,50.05,2022-12-04,347,27
+PROD-0648,"TechnoCore Electronics Model 1648",Electronics,TechnoCore,198,128.7,2023-01-05,348,28
+PROD-0649,"StyleMax Clothing Model 1649",Clothing,StyleMax,79,51.35,2024-02-06,349,29
+PROD-0650,"HomeComfort Home & Garden Model 1650",Home & Garden,HomeComfort,80,52,2020-03-07,350,30
+PROD-0651,"ActiveLife Sports Model 1651",Sports,ActiveLife,81,52.65,2021-04-08,351,31
+PROD-0652,"ReadMore Books Model 1652",Books,ReadMore,14,9.1,2022-05-09,352,32
+PROD-0653,"GlowUp Beauty Model 1653",Beauty,GlowUp,78,50.7,2023-06-10,353,33
+PROD-0654,"AutoPro Automotive Model 1654",Automotive,AutoPro,84,54.6,2024-07-11,354,34
+PROD-0655,"PlayFun Toys Model 1655",Toys,PlayFun,85,55.25,2020-08-12,355,35
+PROD-0656,"TechnoCore Electronics Model 1656",Electronics,TechnoCore,206,133.9,2021-09-13,356,36
+PROD-0657,"StyleMax Clothing Model 1657",Clothing,StyleMax,87,56.55,2022-10-14,357,37
+PROD-0658,"HomeComfort Home & Garden Model 1658",Home & Garden,HomeComfort,88,57.2,2023-11-15,358,38
+PROD-0659,"ActiveLife Sports Model 1659",Sports,ActiveLife,89,57.85,2024-12-16,359,39
+PROD-0660,"ReadMore Books Model 1660",Books,ReadMore,22,14.3,2020-01-17,360,40
+PROD-0661,"GlowUp Beauty Model 1661",Beauty,GlowUp,86,55.9,2021-02-18,361,41
+PROD-0662,"AutoPro Automotive Model 1662",Automotive,AutoPro,92,59.8,2022-03-19,362,42
+PROD-0663,"PlayFun Toys Model 1663",Toys,PlayFun,93,60.45,2023-04-20,363,43
+PROD-0664,"TechnoCore Electronics Model 1664",Electronics,TechnoCore,214,139.1,2024-05-21,364,44
+PROD-0665,"StyleMax Clothing Model 1665",Clothing,StyleMax,95,61.75,2020-06-22,365,45
+PROD-0666,"HomeComfort Home & Garden Model 1666",Home & Garden,HomeComfort,96,62.4,2021-07-23,366,46
+PROD-0667,"ActiveLife Sports Model 1667",Sports,ActiveLife,97,63.05,2022-08-24,367,47
+PROD-0668,"ReadMore Books Model 1668",Books,ReadMore,30,19.5,2023-09-25,368,48
+PROD-0669,"GlowUp Beauty Model 1669",Beauty,GlowUp,94,61.1,2024-10-26,369,49
+PROD-0670,"AutoPro Automotive Model 1670",Automotive,AutoPro,100,65,2020-11-27,370,50
+PROD-0671,"PlayFun Toys Model 1671",Toys,PlayFun,101,65.65,2021-12-28,371,51
+PROD-0672,"TechnoCore Electronics Model 1672",Electronics,TechnoCore,222,144.3,2022-01-01,372,52
+PROD-0673,"StyleMax Clothing Model 1673",Clothing,StyleMax,103,66.95,2023-02-02,373,53
+PROD-0674,"HomeComfort Home & Garden Model 1674",Home & Garden,HomeComfort,104,67.6,2024-03-03,374,54
+PROD-0675,"ActiveLife Sports Model 1675",Sports,ActiveLife,105,68.25,2020-04-04,375,55
+PROD-0676,"ReadMore Books Model 1676",Books,ReadMore,13,8.45,2021-05-05,376,56
+PROD-0677,"GlowUp Beauty Model 1677",Beauty,GlowUp,27,17.55,2022-06-06,377,57
+PROD-0678,"AutoPro Automotive Model 1678",Automotive,AutoPro,108,70.2,2023-07-07,378,58
+PROD-0679,"PlayFun Toys Model 1679",Toys,PlayFun,109,70.85,2024-08-08,379,59
+PROD-0680,"TechnoCore Electronics Model 1680",Electronics,TechnoCore,230,149.5,2020-09-09,380,60
+PROD-0681,"StyleMax Clothing Model 1681",Clothing,StyleMax,111,72.15,2021-10-10,381,61
+PROD-0682,"HomeComfort Home & Garden Model 1682",Home & Garden,HomeComfort,112,72.8,2022-11-11,382,62
+PROD-0683,"ActiveLife Sports Model 1683",Sports,ActiveLife,113,73.45,2023-12-12,383,63
+PROD-0684,"ReadMore Books Model 1684",Books,ReadMore,21,13.65,2024-01-13,384,64
+PROD-0685,"GlowUp Beauty Model 1685",Beauty,GlowUp,35,22.75,2020-02-14,385,65
+PROD-0686,"AutoPro Automotive Model 1686",Automotive,AutoPro,116,75.4,2021-03-15,386,66
+PROD-0687,"PlayFun Toys Model 1687",Toys,PlayFun,117,76.05,2022-04-16,387,67
+PROD-0688,"TechnoCore Electronics Model 1688",Electronics,TechnoCore,238,154.7,2023-05-17,388,68
+PROD-0689,"StyleMax Clothing Model 1689",Clothing,StyleMax,119,77.35,2024-06-18,389,69
+PROD-0690,"HomeComfort Home & Garden Model 1690",Home & Garden,HomeComfort,120,78,2020-07-19,390,70
+PROD-0691,"ActiveLife Sports Model 1691",Sports,ActiveLife,121,78.65,2021-08-20,391,71
+PROD-0692,"ReadMore Books Model 1692",Books,ReadMore,29,18.85,2022-09-21,392,72
+PROD-0693,"GlowUp Beauty Model 1693",Beauty,GlowUp,43,27.95,2023-10-22,393,73
+PROD-0694,"AutoPro Automotive Model 1694",Automotive,AutoPro,124,80.6,2024-11-23,394,74
+PROD-0695,"PlayFun Toys Model 1695",Toys,PlayFun,125,81.25,2020-12-24,395,75
+PROD-0696,"TechnoCore Electronics Model 1696",Electronics,TechnoCore,246,159.9,2021-01-25,396,76
+PROD-0697,"StyleMax Clothing Model 1697",Clothing,StyleMax,127,82.55,2022-02-26,397,77
+PROD-0698,"HomeComfort Home & Garden Model 1698",Home & Garden,HomeComfort,128,83.2,2023-03-27,398,78
+PROD-0699,"ActiveLife Sports Model 1699",Sports,ActiveLife,129,83.85,2024-04-28,399,79
+PROD-0700,"ReadMore Books Model 1700",Books,ReadMore,12,7.8,2020-05-01,400,80
+PROD-0701,"GlowUp Beauty Model 1701",Beauty,GlowUp,51,33.15,2021-06-02,401,81
+PROD-0702,"AutoPro Automotive Model 1702",Automotive,AutoPro,132,85.8,2022-07-03,402,82
+PROD-0703,"PlayFun Toys Model 1703",Toys,PlayFun,133,86.45,2023-08-04,403,83
+PROD-0704,"TechnoCore Electronics Model 1704",Electronics,TechnoCore,254,165.1,2024-09-05,404,84
+PROD-0705,"StyleMax Clothing Model 1705",Clothing,StyleMax,135,87.75,2020-10-06,405,85
+PROD-0706,"HomeComfort Home & Garden Model 1706",Home & Garden,HomeComfort,136,88.4,2021-11-07,406,86
+PROD-0707,"ActiveLife Sports Model 1707",Sports,ActiveLife,137,89.05,2022-12-08,407,87
+PROD-0708,"ReadMore Books Model 1708",Books,ReadMore,20,13,2023-01-09,408,88
+PROD-0709,"GlowUp Beauty Model 1709",Beauty,GlowUp,59,38.35,2024-02-10,409,89
+PROD-0710,"AutoPro Automotive Model 1710",Automotive,AutoPro,140,91,2020-03-11,410,90
+PROD-0711,"PlayFun Toys Model 1711",Toys,PlayFun,141,91.65,2021-04-12,411,91
+PROD-0712,"TechnoCore Electronics Model 1712",Electronics,TechnoCore,262,170.3,2022-05-13,412,92
+PROD-0713,"StyleMax Clothing Model 1713",Clothing,StyleMax,143,92.95,2023-06-14,413,93
+PROD-0714,"HomeComfort Home & Garden Model 1714",Home & Garden,HomeComfort,144,93.6,2024-07-15,414,94
+PROD-0715,"ActiveLife Sports Model 1715",Sports,ActiveLife,145,94.25,2020-08-16,415,95
+PROD-0716,"ReadMore Books Model 1716",Books,ReadMore,28,18.2,2021-09-17,416,96
+PROD-0717,"GlowUp Beauty Model 1717",Beauty,GlowUp,67,43.55,2022-10-18,417,97
+PROD-0718,"AutoPro Automotive Model 1718",Automotive,AutoPro,148,96.2,2023-11-19,418,98
+PROD-0719,"PlayFun Toys Model 1719",Toys,PlayFun,149,96.85,2024-12-20,419,99
+PROD-0720,"TechnoCore Electronics Model 1720",Electronics,TechnoCore,270,175.5,2020-01-21,420,20
+PROD-0721,"StyleMax Clothing Model 1721",Clothing,StyleMax,151,98.15,2021-02-22,421,21
+PROD-0722,"HomeComfort Home & Garden Model 1722",Home & Garden,HomeComfort,152,98.8,2022-03-23,422,22
+PROD-0723,"ActiveLife Sports Model 1723",Sports,ActiveLife,153,99.45,2023-04-24,423,23
+PROD-0724,"ReadMore Books Model 1724",Books,ReadMore,36,23.4,2024-05-25,424,24
+PROD-0725,"GlowUp Beauty Model 1725",Beauty,GlowUp,75,48.75,2020-06-26,425,25
+PROD-0726,"AutoPro Automotive Model 1726",Automotive,AutoPro,156,101.4,2021-07-27,426,26
+PROD-0727,"PlayFun Toys Model 1727",Toys,PlayFun,157,102.05,2022-08-28,427,27
+PROD-0728,"TechnoCore Electronics Model 1728",Electronics,TechnoCore,278,180.7,2023-09-01,428,28
+PROD-0729,"StyleMax Clothing Model 1729",Clothing,StyleMax,159,103.35,2024-10-02,429,29
+PROD-0730,"HomeComfort Home & Garden Model 1730",Home & Garden,HomeComfort,160,104,2020-11-03,430,30
+PROD-0731,"ActiveLife Sports Model 1731",Sports,ActiveLife,161,104.65,2021-12-04,431,31
+PROD-0732,"ReadMore Books Model 1732",Books,ReadMore,19,12.35,2022-01-05,432,32
+PROD-0733,"GlowUp Beauty Model 1733",Beauty,GlowUp,83,53.95,2023-02-06,433,33
+PROD-0734,"AutoPro Automotive Model 1734",Automotive,AutoPro,164,106.6,2024-03-07,434,34
+PROD-0735,"PlayFun Toys Model 1735",Toys,PlayFun,165,107.25,2020-04-08,435,35
+PROD-0736,"TechnoCore Electronics Model 1736",Electronics,TechnoCore,286,185.9,2021-05-09,436,36
+PROD-0737,"StyleMax Clothing Model 1737",Clothing,StyleMax,167,108.55,2022-06-10,437,37
+PROD-0738,"HomeComfort Home & Garden Model 1738",Home & Garden,HomeComfort,168,109.2,2023-07-11,438,38
+PROD-0739,"ActiveLife Sports Model 1739",Sports,ActiveLife,169,109.85,2024-08-12,439,39
+PROD-0740,"ReadMore Books Model 1740",Books,ReadMore,27,17.55,2020-09-13,440,40
+PROD-0741,"GlowUp Beauty Model 1741",Beauty,GlowUp,91,59.15,2021-10-14,441,41
+PROD-0742,"AutoPro Automotive Model 1742",Automotive,AutoPro,172,111.8,2022-11-15,442,42
+PROD-0743,"PlayFun Toys Model 1743",Toys,PlayFun,173,112.45,2023-12-16,443,43
+PROD-0744,"TechnoCore Electronics Model 1744",Electronics,TechnoCore,294,191.1,2024-01-17,444,44
+PROD-0745,"StyleMax Clothing Model 1745",Clothing,StyleMax,175,113.75,2020-02-18,445,45
+PROD-0746,"HomeComfort Home & Garden Model 1746",Home & Garden,HomeComfort,176,114.4,2021-03-19,446,46
+PROD-0747,"ActiveLife Sports Model 1747",Sports,ActiveLife,177,115.05,2022-04-20,447,47
+PROD-0748,"ReadMore Books Model 1748",Books,ReadMore,35,22.75,2023-05-21,448,48
+PROD-0749,"GlowUp Beauty Model 1749",Beauty,GlowUp,99,64.35,2024-06-22,449,49
+PROD-0750,"AutoPro Automotive Model 1750",Automotive,AutoPro,30,19.5,2020-07-23,450,50
+PROD-0751,"PlayFun Toys Model 1751",Toys,PlayFun,31,20.15,2021-08-24,451,51
+PROD-0752,"TechnoCore Electronics Model 1752",Electronics,TechnoCore,302,196.3,2022-09-25,452,52
+PROD-0753,"StyleMax Clothing Model 1753",Clothing,StyleMax,33,21.45,2023-10-26,453,53
+PROD-0754,"HomeComfort Home & Garden Model 1754",Home & Garden,HomeComfort,34,22.1,2024-11-27,454,54
+PROD-0755,"ActiveLife Sports Model 1755",Sports,ActiveLife,35,22.75,2020-12-28,455,55
+PROD-0756,"ReadMore Books Model 1756",Books,ReadMore,18,11.7,2021-01-01,456,56
+PROD-0757,"GlowUp Beauty Model 1757",Beauty,GlowUp,32,20.8,2022-02-02,457,57
+PROD-0758,"AutoPro Automotive Model 1758",Automotive,AutoPro,38,24.7,2023-03-03,458,58
+PROD-0759,"PlayFun Toys Model 1759",Toys,PlayFun,39,25.35,2024-04-04,459,59
+PROD-0760,"TechnoCore Electronics Model 1760",Electronics,TechnoCore,310,201.5,2020-05-05,460,60
+PROD-0761,"StyleMax Clothing Model 1761",Clothing,StyleMax,41,26.65,2021-06-06,461,61
+PROD-0762,"HomeComfort Home & Garden Model 1762",Home & Garden,HomeComfort,42,27.3,2022-07-07,462,62
+PROD-0763,"ActiveLife Sports Model 1763",Sports,ActiveLife,43,27.95,2023-08-08,463,63
+PROD-0764,"ReadMore Books Model 1764",Books,ReadMore,26,16.9,2024-09-09,464,64
+PROD-0765,"GlowUp Beauty Model 1765",Beauty,GlowUp,40,26,2020-10-10,465,65
+PROD-0766,"AutoPro Automotive Model 1766",Automotive,AutoPro,46,29.9,2021-11-11,466,66
+PROD-0767,"PlayFun Toys Model 1767",Toys,PlayFun,47,30.55,2022-12-12,467,67
+PROD-0768,"TechnoCore Electronics Model 1768",Electronics,TechnoCore,318,206.7,2023-01-13,468,68
+PROD-0769,"StyleMax Clothing Model 1769",Clothing,StyleMax,49,31.85,2024-02-14,469,69
+PROD-0770,"HomeComfort Home & Garden Model 1770",Home & Garden,HomeComfort,50,32.5,2020-03-15,470,70
+PROD-0771,"ActiveLife Sports Model 1771",Sports,ActiveLife,51,33.15,2021-04-16,471,71
+PROD-0772,"ReadMore Books Model 1772",Books,ReadMore,34,22.1,2022-05-17,472,72
+PROD-0773,"GlowUp Beauty Model 1773",Beauty,GlowUp,48,31.2,2023-06-18,473,73
+PROD-0774,"AutoPro Automotive Model 1774",Automotive,AutoPro,54,35.1,2024-07-19,474,74
+PROD-0775,"PlayFun Toys Model 1775",Toys,PlayFun,55,35.75,2020-08-20,475,75
+PROD-0776,"TechnoCore Electronics Model 1776",Electronics,TechnoCore,326,211.9,2021-09-21,476,76
+PROD-0777,"StyleMax Clothing Model 1777",Clothing,StyleMax,57,37.05,2022-10-22,477,77
+PROD-0778,"HomeComfort Home & Garden Model 1778",Home & Garden,HomeComfort,58,37.7,2023-11-23,478,78
+PROD-0779,"ActiveLife Sports Model 1779",Sports,ActiveLife,59,38.35,2024-12-24,479,79
+PROD-0780,"ReadMore Books Model 1780",Books,ReadMore,17,11.05,2020-01-25,480,80
+PROD-0781,"GlowUp Beauty Model 1781",Beauty,GlowUp,56,36.4,2021-02-26,481,81
+PROD-0782,"AutoPro Automotive Model 1782",Automotive,AutoPro,62,40.3,2022-03-27,482,82
+PROD-0783,"PlayFun Toys Model 1783",Toys,PlayFun,63,40.95,2023-04-28,483,83
+PROD-0784,"TechnoCore Electronics Model 1784",Electronics,TechnoCore,334,217.1,2024-05-01,484,84
+PROD-0785,"StyleMax Clothing Model 1785",Clothing,StyleMax,65,42.25,2020-06-02,485,85
+PROD-0786,"HomeComfort Home & Garden Model 1786",Home & Garden,HomeComfort,66,42.9,2021-07-03,486,86
+PROD-0787,"ActiveLife Sports Model 1787",Sports,ActiveLife,67,43.55,2022-08-04,487,87
+PROD-0788,"ReadMore Books Model 1788",Books,ReadMore,25,16.25,2023-09-05,488,88
+PROD-0789,"GlowUp Beauty Model 1789",Beauty,GlowUp,64,41.6,2024-10-06,489,89
+PROD-0790,"AutoPro Automotive Model 1790",Automotive,AutoPro,70,45.5,2020-11-07,490,90
+PROD-0791,"PlayFun Toys Model 1791",Toys,PlayFun,71,46.15,2021-12-08,491,91
+PROD-0792,"TechnoCore Electronics Model 1792",Electronics,TechnoCore,342,222.3,2022-01-09,492,92
+PROD-0793,"StyleMax Clothing Model 1793",Clothing,StyleMax,73,47.45,2023-02-10,493,93
+PROD-0794,"HomeComfort Home & Garden Model 1794",Home & Garden,HomeComfort,74,48.1,2024-03-11,494,94
+PROD-0795,"ActiveLife Sports Model 1795",Sports,ActiveLife,75,48.75,2020-04-12,495,95
+PROD-0796,"ReadMore Books Model 1796",Books,ReadMore,33,21.45,2021-05-13,496,96
+PROD-0797,"GlowUp Beauty Model 1797",Beauty,GlowUp,72,46.8,2022-06-14,497,97
+PROD-0798,"AutoPro Automotive Model 1798",Automotive,AutoPro,78,50.7,2023-07-15,498,98
+PROD-0799,"PlayFun Toys Model 1799",Toys,PlayFun,79,51.35,2024-08-16,499,99
+PROD-0800,"TechnoCore Electronics Model 1800",Electronics,TechnoCore,350,227.5,2020-09-17,100,20
+PROD-0801,"StyleMax Clothing Model 1801",Clothing,StyleMax,81,52.65,2021-10-18,101,21
+PROD-0802,"HomeComfort Home & Garden Model 1802",Home & Garden,HomeComfort,82,53.3,2022-11-19,102,22
+PROD-0803,"ActiveLife Sports Model 1803",Sports,ActiveLife,83,53.95,2023-12-20,103,23
+PROD-0804,"ReadMore Books Model 1804",Books,ReadMore,16,10.4,2024-01-21,104,24
+PROD-0805,"GlowUp Beauty Model 1805",Beauty,GlowUp,80,52,2020-02-22,105,25
+PROD-0806,"AutoPro Automotive Model 1806",Automotive,AutoPro,86,55.9,2021-03-23,106,26
+PROD-0807,"PlayFun Toys Model 1807",Toys,PlayFun,87,56.55,2022-04-24,107,27
+PROD-0808,"TechnoCore Electronics Model 1808",Electronics,TechnoCore,358,232.7,2023-05-25,108,28
+PROD-0809,"StyleMax Clothing Model 1809",Clothing,StyleMax,89,57.85,2024-06-26,109,29
+PROD-0810,"HomeComfort Home & Garden Model 1810",Home & Garden,HomeComfort,90,58.5,2020-07-27,110,30
+PROD-0811,"ActiveLife Sports Model 1811",Sports,ActiveLife,91,59.15,2021-08-28,111,31
+PROD-0812,"ReadMore Books Model 1812",Books,ReadMore,24,15.6,2022-09-01,112,32
+PROD-0813,"GlowUp Beauty Model 1813",Beauty,GlowUp,88,57.2,2023-10-02,113,33
+PROD-0814,"AutoPro Automotive Model 1814",Automotive,AutoPro,94,61.1,2024-11-03,114,34
+PROD-0815,"PlayFun Toys Model 1815",Toys,PlayFun,95,61.75,2020-12-04,115,35
+PROD-0816,"TechnoCore Electronics Model 1816",Electronics,TechnoCore,366,237.9,2021-01-05,116,36
+PROD-0817,"StyleMax Clothing Model 1817",Clothing,StyleMax,97,63.05,2022-02-06,117,37
+PROD-0818,"HomeComfort Home & Garden Model 1818",Home & Garden,HomeComfort,98,63.7,2023-03-07,118,38
+PROD-0819,"ActiveLife Sports Model 1819",Sports,ActiveLife,99,64.35,2024-04-08,119,39
+PROD-0820,"ReadMore Books Model 1820",Books,ReadMore,32,20.8,2020-05-09,120,40
+PROD-0821,"GlowUp Beauty Model 1821",Beauty,GlowUp,96,62.4,2021-06-10,121,41
+PROD-0822,"AutoPro Automotive Model 1822",Automotive,AutoPro,102,66.3,2022-07-11,122,42
+PROD-0823,"PlayFun Toys Model 1823",Toys,PlayFun,103,66.95,2023-08-12,123,43
+PROD-0824,"TechnoCore Electronics Model 1824",Electronics,TechnoCore,374,243.1,2024-09-13,124,44
+PROD-0825,"StyleMax Clothing Model 1825",Clothing,StyleMax,105,68.25,2020-10-14,125,45
+PROD-0826,"HomeComfort Home & Garden Model 1826",Home & Garden,HomeComfort,106,68.9,2021-11-15,126,46
+PROD-0827,"ActiveLife Sports Model 1827",Sports,ActiveLife,107,69.55,2022-12-16,127,47
+PROD-0828,"ReadMore Books Model 1828",Books,ReadMore,15,9.75,2023-01-17,128,48
+PROD-0829,"GlowUp Beauty Model 1829",Beauty,GlowUp,29,18.85,2024-02-18,129,49
+PROD-0830,"AutoPro Automotive Model 1830",Automotive,AutoPro,110,71.5,2020-03-19,130,50
+PROD-0831,"PlayFun Toys Model 1831",Toys,PlayFun,111,72.15,2021-04-20,131,51
+PROD-0832,"TechnoCore Electronics Model 1832",Electronics,TechnoCore,382,248.3,2022-05-21,132,52
+PROD-0833,"StyleMax Clothing Model 1833",Clothing,StyleMax,113,73.45,2023-06-22,133,53
+PROD-0834,"HomeComfort Home & Garden Model 1834",Home & Garden,HomeComfort,114,74.1,2024-07-23,134,54
+PROD-0835,"ActiveLife Sports Model 1835",Sports,ActiveLife,115,74.75,2020-08-24,135,55
+PROD-0836,"ReadMore Books Model 1836",Books,ReadMore,23,14.95,2021-09-25,136,56
+PROD-0837,"GlowUp Beauty Model 1837",Beauty,GlowUp,37,24.05,2022-10-26,137,57
+PROD-0838,"AutoPro Automotive Model 1838",Automotive,AutoPro,118,76.7,2023-11-27,138,58
+PROD-0839,"PlayFun Toys Model 1839",Toys,PlayFun,119,77.35,2024-12-28,139,59
+PROD-0840,"TechnoCore Electronics Model 1840",Electronics,TechnoCore,390,253.5,2020-01-01,140,60
+PROD-0841,"StyleMax Clothing Model 1841",Clothing,StyleMax,121,78.65,2021-02-02,141,61
+PROD-0842,"HomeComfort Home & Garden Model 1842",Home & Garden,HomeComfort,122,79.3,2022-03-03,142,62
+PROD-0843,"ActiveLife Sports Model 1843",Sports,ActiveLife,123,79.95,2023-04-04,143,63
+PROD-0844,"ReadMore Books Model 1844",Books,ReadMore,31,20.15,2024-05-05,144,64
+PROD-0845,"GlowUp Beauty Model 1845",Beauty,GlowUp,45,29.25,2020-06-06,145,65
+PROD-0846,"AutoPro Automotive Model 1846",Automotive,AutoPro,126,81.9,2021-07-07,146,66
+PROD-0847,"PlayFun Toys Model 1847",Toys,PlayFun,127,82.55,2022-08-08,147,67
+PROD-0848,"TechnoCore Electronics Model 1848",Electronics,TechnoCore,398,258.7,2023-09-09,148,68
+PROD-0849,"StyleMax Clothing Model 1849",Clothing,StyleMax,129,83.85,2024-10-10,149,69
+PROD-0850,"HomeComfort Home & Garden Model 1850",Home & Garden,HomeComfort,130,84.5,2020-11-11,150,70
+PROD-0851,"ActiveLife Sports Model 1851",Sports,ActiveLife,131,85.15,2021-12-12,151,71
+PROD-0852,"ReadMore Books Model 1852",Books,ReadMore,14,9.1,2022-01-13,152,72
+PROD-0853,"GlowUp Beauty Model 1853",Beauty,GlowUp,53,34.45,2023-02-14,153,73
+PROD-0854,"AutoPro Automotive Model 1854",Automotive,AutoPro,134,87.1,2024-03-15,154,74
+PROD-0855,"PlayFun Toys Model 1855",Toys,PlayFun,135,87.75,2020-04-16,155,75
+PROD-0856,"TechnoCore Electronics Model 1856",Electronics,TechnoCore,406,263.9,2021-05-17,156,76
+PROD-0857,"StyleMax Clothing Model 1857",Clothing,StyleMax,137,89.05,2022-06-18,157,77
+PROD-0858,"HomeComfort Home & Garden Model 1858",Home & Garden,HomeComfort,138,89.7,2023-07-19,158,78
+PROD-0859,"ActiveLife Sports Model 1859",Sports,ActiveLife,139,90.35,2024-08-20,159,79
+PROD-0860,"ReadMore Books Model 1860",Books,ReadMore,22,14.3,2020-09-21,160,80
+PROD-0861,"GlowUp Beauty Model 1861",Beauty,GlowUp,61,39.65,2021-10-22,161,81
+PROD-0862,"AutoPro Automotive Model 1862",Automotive,AutoPro,142,92.3,2022-11-23,162,82
+PROD-0863,"PlayFun Toys Model 1863",Toys,PlayFun,143,92.95,2023-12-24,163,83
+PROD-0864,"TechnoCore Electronics Model 1864",Electronics,TechnoCore,414,269.1,2024-01-25,164,84
+PROD-0865,"StyleMax Clothing Model 1865",Clothing,StyleMax,145,94.25,2020-02-26,165,85
+PROD-0866,"HomeComfort Home & Garden Model 1866",Home & Garden,HomeComfort,146,94.9,2021-03-27,166,86
+PROD-0867,"ActiveLife Sports Model 1867",Sports,ActiveLife,147,95.55,2022-04-28,167,87
+PROD-0868,"ReadMore Books Model 1868",Books,ReadMore,30,19.5,2023-05-01,168,88
+PROD-0869,"GlowUp Beauty Model 1869",Beauty,GlowUp,69,44.85,2024-06-02,169,89
+PROD-0870,"AutoPro Automotive Model 1870",Automotive,AutoPro,150,97.5,2020-07-03,170,90
+PROD-0871,"PlayFun Toys Model 1871",Toys,PlayFun,151,98.15,2021-08-04,171,91
+PROD-0872,"TechnoCore Electronics Model 1872",Electronics,TechnoCore,422,274.3,2022-09-05,172,92
+PROD-0873,"StyleMax Clothing Model 1873",Clothing,StyleMax,153,99.45,2023-10-06,173,93
+PROD-0874,"HomeComfort Home & Garden Model 1874",Home & Garden,HomeComfort,154,100.1,2024-11-07,174,94
+PROD-0875,"ActiveLife Sports Model 1875",Sports,ActiveLife,155,100.75,2020-12-08,175,95
+PROD-0876,"ReadMore Books Model 1876",Books,ReadMore,13,8.45,2021-01-09,176,96
+PROD-0877,"GlowUp Beauty Model 1877",Beauty,GlowUp,77,50.05,2022-02-10,177,97
+PROD-0878,"AutoPro Automotive Model 1878",Automotive,AutoPro,158,102.7,2023-03-11,178,98
+PROD-0879,"PlayFun Toys Model 1879",Toys,PlayFun,159,103.35,2024-04-12,179,99
+PROD-0880,"TechnoCore Electronics Model 1880",Electronics,TechnoCore,430,279.5,2020-05-13,180,20
+PROD-0881,"StyleMax Clothing Model 1881",Clothing,StyleMax,161,104.65,2021-06-14,181,21
+PROD-0882,"HomeComfort Home & Garden Model 1882",Home & Garden,HomeComfort,162,105.3,2022-07-15,182,22
+PROD-0883,"ActiveLife Sports Model 1883",Sports,ActiveLife,163,105.95,2023-08-16,183,23
+PROD-0884,"ReadMore Books Model 1884",Books,ReadMore,21,13.65,2024-09-17,184,24
+PROD-0885,"GlowUp Beauty Model 1885",Beauty,GlowUp,85,55.25,2020-10-18,185,25
+PROD-0886,"AutoPro Automotive Model 1886",Automotive,AutoPro,166,107.9,2021-11-19,186,26
+PROD-0887,"PlayFun Toys Model 1887",Toys,PlayFun,167,108.55,2022-12-20,187,27
+PROD-0888,"TechnoCore Electronics Model 1888",Electronics,TechnoCore,438,284.7,2023-01-21,188,28
+PROD-0889,"StyleMax Clothing Model 1889",Clothing,StyleMax,169,109.85,2024-02-22,189,29
+PROD-0890,"HomeComfort Home & Garden Model 1890",Home & Garden,HomeComfort,170,110.5,2020-03-23,190,30
+PROD-0891,"ActiveLife Sports Model 1891",Sports,ActiveLife,171,111.15,2021-04-24,191,31
+PROD-0892,"ReadMore Books Model 1892",Books,ReadMore,29,18.85,2022-05-25,192,32
+PROD-0893,"GlowUp Beauty Model 1893",Beauty,GlowUp,93,60.45,2023-06-26,193,33
+PROD-0894,"AutoPro Automotive Model 1894",Automotive,AutoPro,174,113.1,2024-07-27,194,34
+PROD-0895,"PlayFun Toys Model 1895",Toys,PlayFun,175,113.75,2020-08-28,195,35
+PROD-0896,"TechnoCore Electronics Model 1896",Electronics,TechnoCore,446,289.9,2021-09-01,196,36
+PROD-0897,"StyleMax Clothing Model 1897",Clothing,StyleMax,177,115.05,2022-10-02,197,37
+PROD-0898,"HomeComfort Home & Garden Model 1898",Home & Garden,HomeComfort,178,115.7,2023-11-03,198,38
+PROD-0899,"ActiveLife Sports Model 1899",Sports,ActiveLife,179,116.35,2024-12-04,199,39
+PROD-0900,"ReadMore Books Model 1900",Books,ReadMore,12,7.8,2020-01-05,200,40
+PROD-0901,"GlowUp Beauty Model 1901",Beauty,GlowUp,26,16.9,2021-02-06,201,41
+PROD-0902,"AutoPro Automotive Model 1902",Automotive,AutoPro,32,20.8,2022-03-07,202,42
+PROD-0903,"PlayFun Toys Model 1903",Toys,PlayFun,33,21.45,2023-04-08,203,43
+PROD-0904,"TechnoCore Electronics Model 1904",Electronics,TechnoCore,154,100.1,2024-05-09,204,44
+PROD-0905,"StyleMax Clothing Model 1905",Clothing,StyleMax,35,22.75,2020-06-10,205,45
+PROD-0906,"HomeComfort Home & Garden Model 1906",Home & Garden,HomeComfort,36,23.4,2021-07-11,206,46
+PROD-0907,"ActiveLife Sports Model 1907",Sports,ActiveLife,37,24.05,2022-08-12,207,47
+PROD-0908,"ReadMore Books Model 1908",Books,ReadMore,20,13,2023-09-13,208,48
+PROD-0909,"GlowUp Beauty Model 1909",Beauty,GlowUp,34,22.1,2024-10-14,209,49
+PROD-0910,"AutoPro Automotive Model 1910",Automotive,AutoPro,40,26,2020-11-15,210,50
+PROD-0911,"PlayFun Toys Model 1911",Toys,PlayFun,41,26.65,2021-12-16,211,51
+PROD-0912,"TechnoCore Electronics Model 1912",Electronics,TechnoCore,162,105.3,2022-01-17,212,52
+PROD-0913,"StyleMax Clothing Model 1913",Clothing,StyleMax,43,27.95,2023-02-18,213,53
+PROD-0914,"HomeComfort Home & Garden Model 1914",Home & Garden,HomeComfort,44,28.6,2024-03-19,214,54
+PROD-0915,"ActiveLife Sports Model 1915",Sports,ActiveLife,45,29.25,2020-04-20,215,55
+PROD-0916,"ReadMore Books Model 1916",Books,ReadMore,28,18.2,2021-05-21,216,56
+PROD-0917,"GlowUp Beauty Model 1917",Beauty,GlowUp,42,27.3,2022-06-22,217,57
+PROD-0918,"AutoPro Automotive Model 1918",Automotive,AutoPro,48,31.2,2023-07-23,218,58
+PROD-0919,"PlayFun Toys Model 1919",Toys,PlayFun,49,31.85,2024-08-24,219,59
+PROD-0920,"TechnoCore Electronics Model 1920",Electronics,TechnoCore,170,110.5,2020-09-25,220,60
+PROD-0921,"StyleMax Clothing Model 1921",Clothing,StyleMax,51,33.15,2021-10-26,221,61
+PROD-0922,"HomeComfort Home & Garden Model 1922",Home & Garden,HomeComfort,52,33.8,2022-11-27,222,62
+PROD-0923,"ActiveLife Sports Model 1923",Sports,ActiveLife,53,34.45,2023-12-28,223,63
+PROD-0924,"ReadMore Books Model 1924",Books,ReadMore,36,23.4,2024-01-01,224,64
+PROD-0925,"GlowUp Beauty Model 1925",Beauty,GlowUp,50,32.5,2020-02-02,225,65
+PROD-0926,"AutoPro Automotive Model 1926",Automotive,AutoPro,56,36.4,2021-03-03,226,66
+PROD-0927,"PlayFun Toys Model 1927",Toys,PlayFun,57,37.05,2022-04-04,227,67
+PROD-0928,"TechnoCore Electronics Model 1928",Electronics,TechnoCore,178,115.7,2023-05-05,228,68
+PROD-0929,"StyleMax Clothing Model 1929",Clothing,StyleMax,59,38.35,2024-06-06,229,69
+PROD-0930,"HomeComfort Home & Garden Model 1930",Home & Garden,HomeComfort,60,39,2020-07-07,230,70
+PROD-0931,"ActiveLife Sports Model 1931",Sports,ActiveLife,61,39.65,2021-08-08,231,71
+PROD-0932,"ReadMore Books Model 1932",Books,ReadMore,19,12.35,2022-09-09,232,72
+PROD-0933,"GlowUp Beauty Model 1933",Beauty,GlowUp,58,37.7,2023-10-10,233,73
+PROD-0934,"AutoPro Automotive Model 1934",Automotive,AutoPro,64,41.6,2024-11-11,234,74
+PROD-0935,"PlayFun Toys Model 1935",Toys,PlayFun,65,42.25,2020-12-12,235,75
+PROD-0936,"TechnoCore Electronics Model 1936",Electronics,TechnoCore,186,120.9,2021-01-13,236,76
+PROD-0937,"StyleMax Clothing Model 1937",Clothing,StyleMax,67,43.55,2022-02-14,237,77
+PROD-0938,"HomeComfort Home & Garden Model 1938",Home & Garden,HomeComfort,68,44.2,2023-03-15,238,78
+PROD-0939,"ActiveLife Sports Model 1939",Sports,ActiveLife,69,44.85,2024-04-16,239,79
+PROD-0940,"ReadMore Books Model 1940",Books,ReadMore,27,17.55,2020-05-17,240,80
+PROD-0941,"GlowUp Beauty Model 1941",Beauty,GlowUp,66,42.9,2021-06-18,241,81
+PROD-0942,"AutoPro Automotive Model 1942",Automotive,AutoPro,72,46.8,2022-07-19,242,82
+PROD-0943,"PlayFun Toys Model 1943",Toys,PlayFun,73,47.45,2023-08-20,243,83
+PROD-0944,"TechnoCore Electronics Model 1944",Electronics,TechnoCore,194,126.1,2024-09-21,244,84
+PROD-0945,"StyleMax Clothing Model 1945",Clothing,StyleMax,75,48.75,2020-10-22,245,85
+PROD-0946,"HomeComfort Home & Garden Model 1946",Home & Garden,HomeComfort,76,49.4,2021-11-23,246,86
+PROD-0947,"ActiveLife Sports Model 1947",Sports,ActiveLife,77,50.05,2022-12-24,247,87
+PROD-0948,"ReadMore Books Model 1948",Books,ReadMore,35,22.75,2023-01-25,248,88
+PROD-0949,"GlowUp Beauty Model 1949",Beauty,GlowUp,74,48.1,2024-02-26,249,89
+PROD-0950,"AutoPro Automotive Model 1950",Automotive,AutoPro,80,52,2020-03-27,250,90
+PROD-0951,"PlayFun Toys Model 1951",Toys,PlayFun,81,52.65,2021-04-28,251,91
+PROD-0952,"TechnoCore Electronics Model 1952",Electronics,TechnoCore,202,131.3,2022-05-01,252,92
+PROD-0953,"StyleMax Clothing Model 1953",Clothing,StyleMax,83,53.95,2023-06-02,253,93
+PROD-0954,"HomeComfort Home & Garden Model 1954",Home & Garden,HomeComfort,84,54.6,2024-07-03,254,94
+PROD-0955,"ActiveLife Sports Model 1955",Sports,ActiveLife,85,55.25,2020-08-04,255,95
+PROD-0956,"ReadMore Books Model 1956",Books,ReadMore,18,11.7,2021-09-05,256,96
+PROD-0957,"GlowUp Beauty Model 1957",Beauty,GlowUp,82,53.3,2022-10-06,257,97
+PROD-0958,"AutoPro Automotive Model 1958",Automotive,AutoPro,88,57.2,2023-11-07,258,98
+PROD-0959,"PlayFun Toys Model 1959",Toys,PlayFun,89,57.85,2024-12-08,259,99
+PROD-0960,"TechnoCore Electronics Model 1960",Electronics,TechnoCore,210,136.5,2020-01-09,260,20
+PROD-0961,"StyleMax Clothing Model 1961",Clothing,StyleMax,91,59.15,2021-02-10,261,21
+PROD-0962,"HomeComfort Home & Garden Model 1962",Home & Garden,HomeComfort,92,59.8,2022-03-11,262,22
+PROD-0963,"ActiveLife Sports Model 1963",Sports,ActiveLife,93,60.45,2023-04-12,263,23
+PROD-0964,"ReadMore Books Model 1964",Books,ReadMore,26,16.9,2024-05-13,264,24
+PROD-0965,"GlowUp Beauty Model 1965",Beauty,GlowUp,90,58.5,2020-06-14,265,25
+PROD-0966,"AutoPro Automotive Model 1966",Automotive,AutoPro,96,62.4,2021-07-15,266,26
+PROD-0967,"PlayFun Toys Model 1967",Toys,PlayFun,97,63.05,2022-08-16,267,27
+PROD-0968,"TechnoCore Electronics Model 1968",Electronics,TechnoCore,218,141.7,2023-09-17,268,28
+PROD-0969,"StyleMax Clothing Model 1969",Clothing,StyleMax,99,64.35,2024-10-18,269,29
+PROD-0970,"HomeComfort Home & Garden Model 1970",Home & Garden,HomeComfort,100,65,2020-11-19,270,30
+PROD-0971,"ActiveLife Sports Model 1971",Sports,ActiveLife,101,65.65,2021-12-20,271,31
+PROD-0972,"ReadMore Books Model 1972",Books,ReadMore,34,22.1,2022-01-21,272,32
+PROD-0973,"GlowUp Beauty Model 1973",Beauty,GlowUp,98,63.7,2023-02-22,273,33
+PROD-0974,"AutoPro Automotive Model 1974",Automotive,AutoPro,104,67.6,2024-03-23,274,34
+PROD-0975,"PlayFun Toys Model 1975",Toys,PlayFun,105,68.25,2020-04-24,275,35
+PROD-0976,"TechnoCore Electronics Model 1976",Electronics,TechnoCore,226,146.9,2021-05-25,276,36
+PROD-0977,"StyleMax Clothing Model 1977",Clothing,StyleMax,107,69.55,2022-06-26,277,37
+PROD-0978,"HomeComfort Home & Garden Model 1978",Home & Garden,HomeComfort,108,70.2,2023-07-27,278,38
+PROD-0979,"ActiveLife Sports Model 1979",Sports,ActiveLife,109,70.85,2024-08-28,279,39
+PROD-0980,"ReadMore Books Model 1980",Books,ReadMore,17,11.05,2020-09-01,280,40
+PROD-0981,"GlowUp Beauty Model 1981",Beauty,GlowUp,31,20.15,2021-10-02,281,41
+PROD-0982,"AutoPro Automotive Model 1982",Automotive,AutoPro,112,72.8,2022-11-03,282,42
+PROD-0983,"PlayFun Toys Model 1983",Toys,PlayFun,113,73.45,2023-12-04,283,43
+PROD-0984,"TechnoCore Electronics Model 1984",Electronics,TechnoCore,234,152.1,2024-01-05,284,44
+PROD-0985,"StyleMax Clothing Model 1985",Clothing,StyleMax,115,74.75,2020-02-06,285,45
+PROD-0986,"HomeComfort Home & Garden Model 1986",Home & Garden,HomeComfort,116,75.4,2021-03-07,286,46
+PROD-0987,"ActiveLife Sports Model 1987",Sports,ActiveLife,117,76.05,2022-04-08,287,47
+PROD-0988,"ReadMore Books Model 1988",Books,ReadMore,25,16.25,2023-05-09,288,48
+PROD-0989,"GlowUp Beauty Model 1989",Beauty,GlowUp,39,25.35,2024-06-10,289,49
+PROD-0990,"AutoPro Automotive Model 1990",Automotive,AutoPro,120,78,2020-07-11,290,50
+PROD-0991,"PlayFun Toys Model 1991",Toys,PlayFun,121,78.65,2021-08-12,291,51
+PROD-0992,"TechnoCore Electronics Model 1992",Electronics,TechnoCore,242,157.3,2022-09-13,292,52
+PROD-0993,"StyleMax Clothing Model 1993",Clothing,StyleMax,123,79.95,2023-10-14,293,53
+PROD-0994,"HomeComfort Home & Garden Model 1994",Home & Garden,HomeComfort,124,80.6,2024-11-15,294,54
+PROD-0995,"ActiveLife Sports Model 1995",Sports,ActiveLife,125,81.25,2020-12-16,295,55
+PROD-0996,"ReadMore Books Model 1996",Books,ReadMore,33,21.45,2021-01-17,296,56
+PROD-0997,"GlowUp Beauty Model 1997",Beauty,GlowUp,47,30.55,2022-02-18,297,57
+PROD-0998,"AutoPro Automotive Model 1998",Automotive,AutoPro,128,83.2,2023-03-19,298,58
+PROD-0999,"PlayFun Toys Model 1999",Toys,PlayFun,129,83.85,2024-04-20,299,59
+PROD-1000,"TechnoCore Electronics Model 2000",Electronics,TechnoCore,250,162.5,2020-05-21,300,60
+PROD-1001,"StyleMax Clothing Model 2001",Clothing,StyleMax,131,85.15,2021-06-22,301,61
+PROD-1002,"HomeComfort Home & Garden Model 2002",Home & Garden,HomeComfort,132,85.8,2022-07-23,302,62
+PROD-1003,"ActiveLife Sports Model 2003",Sports,ActiveLife,133,86.45,2023-08-24,303,63
+PROD-1004,"ReadMore Books Model 2004",Books,ReadMore,16,10.4,2024-09-25,304,64
+PROD-1005,"GlowUp Beauty Model 2005",Beauty,GlowUp,55,35.75,2020-10-26,305,65
+PROD-1006,"AutoPro Automotive Model 2006",Automotive,AutoPro,136,88.4,2021-11-27,306,66
+PROD-1007,"PlayFun Toys Model 2007",Toys,PlayFun,137,89.05,2022-12-28,307,67
+PROD-1008,"TechnoCore Electronics Model 2008",Electronics,TechnoCore,258,167.7,2023-01-01,308,68
+PROD-1009,"StyleMax Clothing Model 2009",Clothing,StyleMax,139,90.35,2024-02-02,309,69
+PROD-1010,"HomeComfort Home & Garden Model 2010",Home & Garden,HomeComfort,140,91,2020-03-03,310,70
+PROD-1011,"ActiveLife Sports Model 2011",Sports,ActiveLife,141,91.65,2021-04-04,311,71
+PROD-1012,"ReadMore Books Model 2012",Books,ReadMore,24,15.6,2022-05-05,312,72
+PROD-1013,"GlowUp Beauty Model 2013",Beauty,GlowUp,63,40.95,2023-06-06,313,73
+PROD-1014,"AutoPro Automotive Model 2014",Automotive,AutoPro,144,93.6,2024-07-07,314,74
+PROD-1015,"PlayFun Toys Model 2015",Toys,PlayFun,145,94.25,2020-08-08,315,75
+PROD-1016,"TechnoCore Electronics Model 2016",Electronics,TechnoCore,266,172.9,2021-09-09,316,76
+PROD-1017,"StyleMax Clothing Model 2017",Clothing,StyleMax,147,95.55,2022-10-10,317,77
+PROD-1018,"HomeComfort Home & Garden Model 2018",Home & Garden,HomeComfort,148,96.2,2023-11-11,318,78
+PROD-1019,"ActiveLife Sports Model 2019",Sports,ActiveLife,149,96.85,2024-12-12,319,79
+PROD-1020,"ReadMore Books Model 2020",Books,ReadMore,32,20.8,2020-01-13,320,80
+PROD-1021,"GlowUp Beauty Model 2021",Beauty,GlowUp,71,46.15,2021-02-14,321,81
+PROD-1022,"AutoPro Automotive Model 2022",Automotive,AutoPro,152,98.8,2022-03-15,322,82
+PROD-1023,"PlayFun Toys Model 2023",Toys,PlayFun,153,99.45,2023-04-16,323,83
+PROD-1024,"TechnoCore Electronics Model 2024",Electronics,TechnoCore,274,178.1,2024-05-17,324,84
+PROD-1025,"StyleMax Clothing Model 2025",Clothing,StyleMax,155,100.75,2020-06-18,325,85
+PROD-1026,"HomeComfort Home & Garden Model 2026",Home & Garden,HomeComfort,156,101.4,2021-07-19,326,86
+PROD-1027,"ActiveLife Sports Model 2027",Sports,ActiveLife,157,102.05,2022-08-20,327,87
+PROD-1028,"ReadMore Books Model 2028",Books,ReadMore,15,9.75,2023-09-21,328,88
+PROD-1029,"GlowUp Beauty Model 2029",Beauty,GlowUp,79,51.35,2024-10-22,329,89
+PROD-1030,"AutoPro Automotive Model 2030",Automotive,AutoPro,160,104,2020-11-23,330,90
+PROD-1031,"PlayFun Toys Model 2031",Toys,PlayFun,161,104.65,2021-12-24,331,91
+PROD-1032,"TechnoCore Electronics Model 2032",Electronics,TechnoCore,282,183.3,2022-01-25,332,92
+PROD-1033,"StyleMax Clothing Model 2033",Clothing,StyleMax,163,105.95,2023-02-26,333,93
+PROD-1034,"HomeComfort Home & Garden Model 2034",Home & Garden,HomeComfort,164,106.6,2024-03-27,334,94
+PROD-1035,"ActiveLife Sports Model 2035",Sports,ActiveLife,165,107.25,2020-04-28,335,95
+PROD-1036,"ReadMore Books Model 2036",Books,ReadMore,23,14.95,2021-05-01,336,96
+PROD-1037,"GlowUp Beauty Model 2037",Beauty,GlowUp,87,56.55,2022-06-02,337,97
+PROD-1038,"AutoPro Automotive Model 2038",Automotive,AutoPro,168,109.2,2023-07-03,338,98
+PROD-1039,"PlayFun Toys Model 2039",Toys,PlayFun,169,109.85,2024-08-04,339,99
+PROD-1040,"TechnoCore Electronics Model 2040",Electronics,TechnoCore,290,188.5,2020-09-05,340,20
+PROD-1041,"StyleMax Clothing Model 2041",Clothing,StyleMax,171,111.15,2021-10-06,341,21
+PROD-1042,"HomeComfort Home & Garden Model 2042",Home & Garden,HomeComfort,172,111.8,2022-11-07,342,22
+PROD-1043,"ActiveLife Sports Model 2043",Sports,ActiveLife,173,112.45,2023-12-08,343,23
+PROD-1044,"ReadMore Books Model 2044",Books,ReadMore,31,20.15,2024-01-09,344,24
+PROD-1045,"GlowUp Beauty Model 2045",Beauty,GlowUp,95,61.75,2020-02-10,345,25
+PROD-1046,"AutoPro Automotive Model 2046",Automotive,AutoPro,176,114.4,2021-03-11,346,26
+PROD-1047,"PlayFun Toys Model 2047",Toys,PlayFun,177,115.05,2022-04-12,347,27
+PROD-1048,"TechnoCore Electronics Model 2048",Electronics,TechnoCore,298,193.7,2023-05-13,348,28
+PROD-1049,"StyleMax Clothing Model 2049",Clothing,StyleMax,179,116.35,2024-06-14,349,29
+PROD-1050,"HomeComfort Home & Garden Model 2050",Home & Garden,HomeComfort,30,19.5,2020-07-15,350,30
+PROD-1051,"ActiveLife Sports Model 2051",Sports,ActiveLife,31,20.15,2021-08-16,351,31
+PROD-1052,"ReadMore Books Model 2052",Books,ReadMore,14,9.1,2022-09-17,352,32
+PROD-1053,"GlowUp Beauty Model 2053",Beauty,GlowUp,28,18.2,2023-10-18,353,33
+PROD-1054,"AutoPro Automotive Model 2054",Automotive,AutoPro,34,22.1,2024-11-19,354,34
+PROD-1055,"PlayFun Toys Model 2055",Toys,PlayFun,35,22.75,2020-12-20,355,35
+PROD-1056,"TechnoCore Electronics Model 2056",Electronics,TechnoCore,306,198.9,2021-01-21,356,36
+PROD-1057,"StyleMax Clothing Model 2057",Clothing,StyleMax,37,24.05,2022-02-22,357,37
+PROD-1058,"HomeComfort Home & Garden Model 2058",Home & Garden,HomeComfort,38,24.7,2023-03-23,358,38
+PROD-1059,"ActiveLife Sports Model 2059",Sports,ActiveLife,39,25.35,2024-04-24,359,39
+PROD-1060,"ReadMore Books Model 2060",Books,ReadMore,22,14.3,2020-05-25,360,40
+PROD-1061,"GlowUp Beauty Model 2061",Beauty,GlowUp,36,23.4,2021-06-26,361,41
+PROD-1062,"AutoPro Automotive Model 2062",Automotive,AutoPro,42,27.3,2022-07-27,362,42
+PROD-1063,"PlayFun Toys Model 2063",Toys,PlayFun,43,27.95,2023-08-28,363,43
+PROD-1064,"TechnoCore Electronics Model 2064",Electronics,TechnoCore,314,204.1,2024-09-01,364,44
+PROD-1065,"StyleMax Clothing Model 2065",Clothing,StyleMax,45,29.25,2020-10-02,365,45
+PROD-1066,"HomeComfort Home & Garden Model 2066",Home & Garden,HomeComfort,46,29.9,2021-11-03,366,46
+PROD-1067,"ActiveLife Sports Model 2067",Sports,ActiveLife,47,30.55,2022-12-04,367,47
+PROD-1068,"ReadMore Books Model 2068",Books,ReadMore,30,19.5,2023-01-05,368,48
+PROD-1069,"GlowUp Beauty Model 2069",Beauty,GlowUp,44,28.6,2024-02-06,369,49
+PROD-1070,"AutoPro Automotive Model 2070",Automotive,AutoPro,50,32.5,2020-03-07,370,50
+PROD-1071,"PlayFun Toys Model 2071",Toys,PlayFun,51,33.15,2021-04-08,371,51
+PROD-1072,"TechnoCore Electronics Model 2072",Electronics,TechnoCore,322,209.3,2022-05-09,372,52
+PROD-1073,"StyleMax Clothing Model 2073",Clothing,StyleMax,53,34.45,2023-06-10,373,53
+PROD-1074,"HomeComfort Home & Garden Model 2074",Home & Garden,HomeComfort,54,35.1,2024-07-11,374,54
+PROD-1075,"ActiveLife Sports Model 2075",Sports,ActiveLife,55,35.75,2020-08-12,375,55
+PROD-1076,"ReadMore Books Model 2076",Books,ReadMore,13,8.45,2021-09-13,376,56
+PROD-1077,"GlowUp Beauty Model 2077",Beauty,GlowUp,52,33.8,2022-10-14,377,57
+PROD-1078,"AutoPro Automotive Model 2078",Automotive,AutoPro,58,37.7,2023-11-15,378,58
+PROD-1079,"PlayFun Toys Model 2079",Toys,PlayFun,59,38.35,2024-12-16,379,59
+PROD-1080,"TechnoCore Electronics Model 2080",Electronics,TechnoCore,330,214.5,2020-01-17,380,60
+PROD-1081,"StyleMax Clothing Model 2081",Clothing,StyleMax,61,39.65,2021-02-18,381,61
+PROD-1082,"HomeComfort Home & Garden Model 2082",Home & Garden,HomeComfort,62,40.3,2022-03-19,382,62
+PROD-1083,"ActiveLife Sports Model 2083",Sports,ActiveLife,63,40.95,2023-04-20,383,63
+PROD-1084,"ReadMore Books Model 2084",Books,ReadMore,21,13.65,2024-05-21,384,64
+PROD-1085,"GlowUp Beauty Model 2085",Beauty,GlowUp,60,39,2020-06-22,385,65
+PROD-1086,"AutoPro Automotive Model 2086",Automotive,AutoPro,66,42.9,2021-07-23,386,66
+PROD-1087,"PlayFun Toys Model 2087",Toys,PlayFun,67,43.55,2022-08-24,387,67
+PROD-1088,"TechnoCore Electronics Model 2088",Electronics,TechnoCore,338,219.7,2023-09-25,388,68
+PROD-1089,"StyleMax Clothing Model 2089",Clothing,StyleMax,69,44.85,2024-10-26,389,69
+PROD-1090,"HomeComfort Home & Garden Model 2090",Home & Garden,HomeComfort,70,45.5,2020-11-27,390,70
+PROD-1091,"ActiveLife Sports Model 2091",Sports,ActiveLife,71,46.15,2021-12-28,391,71
+PROD-1092,"ReadMore Books Model 2092",Books,ReadMore,29,18.85,2022-01-01,392,72
+PROD-1093,"GlowUp Beauty Model 2093",Beauty,GlowUp,68,44.2,2023-02-02,393,73
+PROD-1094,"AutoPro Automotive Model 2094",Automotive,AutoPro,74,48.1,2024-03-03,394,74
+PROD-1095,"PlayFun Toys Model 2095",Toys,PlayFun,75,48.75,2020-04-04,395,75
+PROD-1096,"TechnoCore Electronics Model 2096",Electronics,TechnoCore,346,224.9,2021-05-05,396,76
+PROD-1097,"StyleMax Clothing Model 2097",Clothing,StyleMax,77,50.05,2022-06-06,397,77
+PROD-1098,"HomeComfort Home & Garden Model 2098",Home & Garden,HomeComfort,78,50.7,2023-07-07,398,78
+PROD-1099,"ActiveLife Sports Model 2099",Sports,ActiveLife,79,51.35,2024-08-08,399,79
+PROD-1100,"ReadMore Books Model 2100",Books,ReadMore,12,7.8,2020-09-09,400,80
+PROD-1101,"GlowUp Beauty Model 2101",Beauty,GlowUp,76,49.4,2021-10-10,401,81
+PROD-1102,"AutoPro Automotive Model 2102",Automotive,AutoPro,82,53.3,2022-11-11,402,82
+PROD-1103,"PlayFun Toys Model 2103",Toys,PlayFun,83,53.95,2023-12-12,403,83
+PROD-1104,"TechnoCore Electronics Model 2104",Electronics,TechnoCore,354,230.1,2024-01-13,404,84
+PROD-1105,"StyleMax Clothing Model 2105",Clothing,StyleMax,85,55.25,2020-02-14,405,85
+PROD-1106,"HomeComfort Home & Garden Model 2106",Home & Garden,HomeComfort,86,55.9,2021-03-15,406,86
+PROD-1107,"ActiveLife Sports Model 2107",Sports,ActiveLife,87,56.55,2022-04-16,407,87
+PROD-1108,"ReadMore Books Model 2108",Books,ReadMore,20,13,2023-05-17,408,88
+PROD-1109,"GlowUp Beauty Model 2109",Beauty,GlowUp,84,54.6,2024-06-18,409,89
+PROD-1110,"AutoPro Automotive Model 2110",Automotive,AutoPro,90,58.5,2020-07-19,410,90
+PROD-1111,"PlayFun Toys Model 2111",Toys,PlayFun,91,59.15,2021-08-20,411,91
+PROD-1112,"TechnoCore Electronics Model 2112",Electronics,TechnoCore,362,235.3,2022-09-21,412,92
+PROD-1113,"StyleMax Clothing Model 2113",Clothing,StyleMax,93,60.45,2023-10-22,413,93
+PROD-1114,"HomeComfort Home & Garden Model 2114",Home & Garden,HomeComfort,94,61.1,2024-11-23,414,94
+PROD-1115,"ActiveLife Sports Model 2115",Sports,ActiveLife,95,61.75,2020-12-24,415,95
+PROD-1116,"ReadMore Books Model 2116",Books,ReadMore,28,18.2,2021-01-25,416,96
+PROD-1117,"GlowUp Beauty Model 2117",Beauty,GlowUp,92,59.8,2022-02-26,417,97
+PROD-1118,"AutoPro Automotive Model 2118",Automotive,AutoPro,98,63.7,2023-03-27,418,98
+PROD-1119,"PlayFun Toys Model 2119",Toys,PlayFun,99,64.35,2024-04-28,419,99
+PROD-1120,"TechnoCore Electronics Model 2120",Electronics,TechnoCore,370,240.5,2020-05-01,420,20
+PROD-1121,"StyleMax Clothing Model 2121",Clothing,StyleMax,101,65.65,2021-06-02,421,21
+PROD-1122,"HomeComfort Home & Garden Model 2122",Home & Garden,HomeComfort,102,66.3,2022-07-03,422,22
+PROD-1123,"ActiveLife Sports Model 2123",Sports,ActiveLife,103,66.95,2023-08-04,423,23
+PROD-1124,"ReadMore Books Model 2124",Books,ReadMore,36,23.4,2024-09-05,424,24
+PROD-1125,"GlowUp Beauty Model 2125",Beauty,GlowUp,25,16.25,2020-10-06,425,25
+PROD-1126,"AutoPro Automotive Model 2126",Automotive,AutoPro,106,68.9,2021-11-07,426,26
+PROD-1127,"PlayFun Toys Model 2127",Toys,PlayFun,107,69.55,2022-12-08,427,27
+PROD-1128,"TechnoCore Electronics Model 2128",Electronics,TechnoCore,378,245.7,2023-01-09,428,28
+PROD-1129,"StyleMax Clothing Model 2129",Clothing,StyleMax,109,70.85,2024-02-10,429,29
+PROD-1130,"HomeComfort Home & Garden Model 2130",Home & Garden,HomeComfort,110,71.5,2020-03-11,430,30
+PROD-1131,"ActiveLife Sports Model 2131",Sports,ActiveLife,111,72.15,2021-04-12,431,31
+PROD-1132,"ReadMore Books Model 2132",Books,ReadMore,19,12.35,2022-05-13,432,32
+PROD-1133,"GlowUp Beauty Model 2133",Beauty,GlowUp,33,21.45,2023-06-14,433,33
+PROD-1134,"AutoPro Automotive Model 2134",Automotive,AutoPro,114,74.1,2024-07-15,434,34
+PROD-1135,"PlayFun Toys Model 2135",Toys,PlayFun,115,74.75,2020-08-16,435,35
+PROD-1136,"TechnoCore Electronics Model 2136",Electronics,TechnoCore,386,250.9,2021-09-17,436,36
+PROD-1137,"StyleMax Clothing Model 2137",Clothing,StyleMax,117,76.05,2022-10-18,437,37
+PROD-1138,"HomeComfort Home & Garden Model 2138",Home & Garden,HomeComfort,118,76.7,2023-11-19,438,38
+PROD-1139,"ActiveLife Sports Model 2139",Sports,ActiveLife,119,77.35,2024-12-20,439,39
+PROD-1140,"ReadMore Books Model 2140",Books,ReadMore,27,17.55,2020-01-21,440,40
+PROD-1141,"GlowUp Beauty Model 2141",Beauty,GlowUp,41,26.65,2021-02-22,441,41
+PROD-1142,"AutoPro Automotive Model 2142",Automotive,AutoPro,122,79.3,2022-03-23,442,42
+PROD-1143,"PlayFun Toys Model 2143",Toys,PlayFun,123,79.95,2023-04-24,443,43
+PROD-1144,"TechnoCore Electronics Model 2144",Electronics,TechnoCore,394,256.1,2024-05-25,444,44
+PROD-1145,"StyleMax Clothing Model 2145",Clothing,StyleMax,125,81.25,2020-06-26,445,45
+PROD-1146,"HomeComfort Home & Garden Model 2146",Home & Garden,HomeComfort,126,81.9,2021-07-27,446,46
+PROD-1147,"ActiveLife Sports Model 2147",Sports,ActiveLife,127,82.55,2022-08-28,447,47
+PROD-1148,"ReadMore Books Model 2148",Books,ReadMore,35,22.75,2023-09-01,448,48
+PROD-1149,"GlowUp Beauty Model 2149",Beauty,GlowUp,49,31.85,2024-10-02,449,49
+PROD-1150,"AutoPro Automotive Model 2150",Automotive,AutoPro,130,84.5,2020-11-03,450,50
+PROD-1151,"PlayFun Toys Model 2151",Toys,PlayFun,131,85.15,2021-12-04,451,51
+PROD-1152,"TechnoCore Electronics Model 2152",Electronics,TechnoCore,402,261.3,2022-01-05,452,52
+PROD-1153,"StyleMax Clothing Model 2153",Clothing,StyleMax,133,86.45,2023-02-06,453,53
+PROD-1154,"HomeComfort Home & Garden Model 2154",Home & Garden,HomeComfort,134,87.1,2024-03-07,454,54
+PROD-1155,"ActiveLife Sports Model 2155",Sports,ActiveLife,135,87.75,2020-04-08,455,55
+PROD-1156,"ReadMore Books Model 2156",Books,ReadMore,18,11.7,2021-05-09,456,56
+PROD-1157,"GlowUp Beauty Model 2157",Beauty,GlowUp,57,37.05,2022-06-10,457,57
+PROD-1158,"AutoPro Automotive Model 2158",Automotive,AutoPro,138,89.7,2023-07-11,458,58
+PROD-1159,"PlayFun Toys Model 2159",Toys,PlayFun,139,90.35,2024-08-12,459,59
+PROD-1160,"TechnoCore Electronics Model 2160",Electronics,TechnoCore,410,266.5,2020-09-13,460,60
+PROD-1161,"StyleMax Clothing Model 2161",Clothing,StyleMax,141,91.65,2021-10-14,461,61
+PROD-1162,"HomeComfort Home & Garden Model 2162",Home & Garden,HomeComfort,142,92.3,2022-11-15,462,62
+PROD-1163,"ActiveLife Sports Model 2163",Sports,ActiveLife,143,92.95,2023-12-16,463,63
+PROD-1164,"ReadMore Books Model 2164",Books,ReadMore,26,16.9,2024-01-17,464,64
+PROD-1165,"GlowUp Beauty Model 2165",Beauty,GlowUp,65,42.25,2020-02-18,465,65
+PROD-1166,"AutoPro Automotive Model 2166",Automotive,AutoPro,146,94.9,2021-03-19,466,66
+PROD-1167,"PlayFun Toys Model 2167",Toys,PlayFun,147,95.55,2022-04-20,467,67
+PROD-1168,"TechnoCore Electronics Model 2168",Electronics,TechnoCore,418,271.7,2023-05-21,468,68
+PROD-1169,"StyleMax Clothing Model 2169",Clothing,StyleMax,149,96.85,2024-06-22,469,69
+PROD-1170,"HomeComfort Home & Garden Model 2170",Home & Garden,HomeComfort,150,97.5,2020-07-23,470,70
+PROD-1171,"ActiveLife Sports Model 2171",Sports,ActiveLife,151,98.15,2021-08-24,471,71
+PROD-1172,"ReadMore Books Model 2172",Books,ReadMore,34,22.1,2022-09-25,472,72
+PROD-1173,"GlowUp Beauty Model 2173",Beauty,GlowUp,73,47.45,2023-10-26,473,73
+PROD-1174,"AutoPro Automotive Model 2174",Automotive,AutoPro,154,100.1,2024-11-27,474,74
+PROD-1175,"PlayFun Toys Model 2175",Toys,PlayFun,155,100.75,2020-12-28,475,75
+PROD-1176,"TechnoCore Electronics Model 2176",Electronics,TechnoCore,426,276.9,2021-01-01,476,76
+PROD-1177,"StyleMax Clothing Model 2177",Clothing,StyleMax,157,102.05,2022-02-02,477,77
+PROD-1178,"HomeComfort Home & Garden Model 2178",Home & Garden,HomeComfort,158,102.7,2023-03-03,478,78
+PROD-1179,"ActiveLife Sports Model 2179",Sports,ActiveLife,159,103.35,2024-04-04,479,79
+PROD-1180,"ReadMore Books Model 2180",Books,ReadMore,17,11.05,2020-05-05,480,80
+PROD-1181,"GlowUp Beauty Model 2181",Beauty,GlowUp,81,52.65,2021-06-06,481,81
+PROD-1182,"AutoPro Automotive Model 2182",Automotive,AutoPro,162,105.3,2022-07-07,482,82
+PROD-1183,"PlayFun Toys Model 2183",Toys,PlayFun,163,105.95,2023-08-08,483,83
+PROD-1184,"TechnoCore Electronics Model 2184",Electronics,TechnoCore,434,282.1,2024-09-09,484,84
+PROD-1185,"StyleMax Clothing Model 2185",Clothing,StyleMax,165,107.25,2020-10-10,485,85
+PROD-1186,"HomeComfort Home & Garden Model 2186",Home & Garden,HomeComfort,166,107.9,2021-11-11,486,86
+PROD-1187,"ActiveLife Sports Model 2187",Sports,ActiveLife,167,108.55,2022-12-12,487,87
+PROD-1188,"ReadMore Books Model 2188",Books,ReadMore,25,16.25,2023-01-13,488,88
+PROD-1189,"GlowUp Beauty Model 2189",Beauty,GlowUp,89,57.85,2024-02-14,489,89
+PROD-1190,"AutoPro Automotive Model 2190",Automotive,AutoPro,170,110.5,2020-03-15,490,90
+PROD-1191,"PlayFun Toys Model 2191",Toys,PlayFun,171,111.15,2021-04-16,491,91
+PROD-1192,"TechnoCore Electronics Model 2192",Electronics,TechnoCore,442,287.3,2022-05-17,492,92
+PROD-1193,"StyleMax Clothing Model 2193",Clothing,StyleMax,173,112.45,2023-06-18,493,93
+PROD-1194,"HomeComfort Home & Garden Model 2194",Home & Garden,HomeComfort,174,113.1,2024-07-19,494,94
+PROD-1195,"ActiveLife Sports Model 2195",Sports,ActiveLife,175,113.75,2020-08-20,495,95
+PROD-1196,"ReadMore Books Model 2196",Books,ReadMore,33,21.45,2021-09-21,496,96
+PROD-1197,"GlowUp Beauty Model 2197",Beauty,GlowUp,97,63.05,2022-10-22,497,97
+PROD-1198,"AutoPro Automotive Model 2198",Automotive,AutoPro,178,115.7,2023-11-23,498,98
+PROD-1199,"PlayFun Toys Model 2199",Toys,PlayFun,179,116.35,2024-12-24,499,99
+PROD-1200,"TechnoCore Electronics Model 2200",Electronics,TechnoCore,150,97.5,2020-01-25,100,20
