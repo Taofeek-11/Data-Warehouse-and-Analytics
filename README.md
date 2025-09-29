@@ -59,31 +59,7 @@ This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
 ## Responsitory Structure
 
-project-name/
-├── datasets/                     			  # Raw datasets used for the project
-│   ├── customers.csv             			  # Customer data
-│   ├── order_items.csv           			  # Order item-level details
-│   ├── orders.csv                			  # Order-level data
-│   └── products.csv             	 		    # Product details
-│
-├── doc./                         			  # Project documentation and architecture
-│   ├── Data_dictionary.pdf       			  # Data dictionary for the schema
-│   ├── data_architecture.png     		    # System/data architecture diagram
-│   ├── data_flow.png             			  # Data flow diagram
-│   └── data_model.png            			  # Data model (e.g., star schema)
-│
-├── script/                       				# SQL scripts for ETL and schema creation
-│   ├── bronze/                   			  # Scripts for raw data extraction and staging
-│   ├── silver/                  				  # Scripts for cleaning and transforming data
-│   ├── gold/                     			  # Scripts for final analytical layer
-│   └── init_database.sql         			  # Database initialization script
-│
-├── tests/                        				# Test scripts and data quality checks
-│   ├── quality_checks_gold.sql   		    # Quality checks for the Gold layer
-│   └── quality_checks_silver.sql 		    # Quality checks for the Silver layer
-│
-├── LICENSE                       			  # License information for the project
-└── README.md                     			  # Project overview and setup instructions
+
 
 
 
