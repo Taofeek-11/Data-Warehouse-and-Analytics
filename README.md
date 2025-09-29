@@ -61,9 +61,9 @@ This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
 project-name/
 
-├── datasets/                     # Raw datasets used for the project
+├── datasets/                                      # Raw datasets used for the project
 
-│   ├── customers.csv             # Customer data
+│   ├── customers.csv                               # Customer data
 
 │   ├── order_items.csv           # Order item-level details
 
