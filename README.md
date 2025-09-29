@@ -59,7 +59,24 @@ This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
 ## Responsitory Structure
 
-
+project-name/
+├── datasets/ # Raw datasets used for the project
+│ ├── customers.csv # Customer data
+│ ├── order_items.csv # Order item-level details
+│ ├── orders.csv # Order-level data
+│ └── products.csv # Product details
+│
+├── docs/ # Documentation and architecture
+│ ├── Data_dictionary.pdf # Data dictionary
+│ ├── data_model.png # Star schema model
+│ └── data_flow.png # Data flow diagram
+│
+├── scripts/ # SQL scripts for ETL
+│ ├── bronze/ # Raw data extraction
+│ ├── silver/ # Data cleaning
+│ └── gold/ # Analytical layer
+│
+└── README.md # Project overview
 
 
 
