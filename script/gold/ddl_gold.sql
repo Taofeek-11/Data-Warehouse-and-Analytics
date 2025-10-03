@@ -24,6 +24,7 @@ select
 	customer_id,
 	first_name,
 	last_name,
+    age,
 	age_category,
 	gender,
 	country,
@@ -57,9 +58,10 @@ from silver.csv_products;
 drop view gold.fact_orders;
 create view gold.fact_orders as
 select
+	row_number() over (order by o.order_id) as order_number,
 	o.order_id,
-	c.customer_key,
-  p.product_key,
+    c.customer_key,
+	p.product_key,
 	o.order_year,
 	o.order_month,
 	o.order_day,
@@ -81,4 +83,3 @@ left join silver.csv_order_items oi
 on o.order_id= oi.order_id
 left join gold.dim_products p
 on oi.product_id=p.product_id;
-
