@@ -73,6 +73,7 @@ select
 	o.discount_amount,
 	o.shipping_cost,
 	o.tax_amount,
+	o.total_amount,
 	o.payment_method,
 	o.order_source,
 	o.billing_country
