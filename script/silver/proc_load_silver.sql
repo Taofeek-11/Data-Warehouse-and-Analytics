@@ -81,13 +81,11 @@ BEGIN
     DELETE FROM silver.csv_orders;
     
     SELECT '>> inserting data into: silver.csv_orders' AS message;
-    INSERT INTO silver.csv_orders (order_id, customer_id, order_year, order_month, order_day, order_status, subtotal, discount_amount, shipping_cost, tax_amount, total_amount, payment_method, order_source, billing_country)
+    INSERT INTO silver.csv_orders (order_id, customer_id, order_date, order_status, subtotal, discount_amount, shipping_cost, tax_amount, total_amount, payment_method, order_source, billing_country)
     SELECT 
         SUBSTRING(order_id,5,6) AS order_id,
         SUBSTRING(customer_id,6,5) AS customer_id,
-        DATE_FORMAT(order_date,'%Y') AS order_year,
-        DATE_FORMAT(order_date,'%b') AS order_month,
-        DATE_FORMAT(order_date,'%d') AS order_day,
+        order_date,
         order_status,
         subtotal,
         discount_amount,
