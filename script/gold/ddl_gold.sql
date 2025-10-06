@@ -67,7 +67,7 @@ select
 	oi.quantity,
 	oi.unit_price,
     oi.line_total,
-	o.subtotal,
+	o.subtotal as sales_amount,
 	o.discount_amount,
 	o.shipping_cost,
 	o.tax_amount,
