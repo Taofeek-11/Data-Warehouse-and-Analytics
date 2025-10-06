@@ -141,7 +141,7 @@ BEGIN
     INSERT INTO silver.csv_products (product_id, product_name, category, brand, price, cost, launch_year, launch_month, current_inventory, reorder_level)
     SELECT 
         SUBSTRING(product_id,6,4) AS product_id,
-        TRIM(SUBSTRING_INDEX(product_name, ' ', -3)) AS product_name,
+        TRIM(SUBSTRING_INDEX(product_name, ' ', 3)) AS product_name,
         category,
         brand,
         price,
