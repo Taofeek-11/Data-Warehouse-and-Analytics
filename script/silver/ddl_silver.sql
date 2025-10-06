@@ -46,9 +46,7 @@ drop table if exists silver.csv_orders;
 create table silver.csv_orders(
 order_id varchar(20) primary key,
 customer_id varchar(20),
-order_year int,
-order_month varchar (10), 
-order_day int,
+order_date date,
 order_status varchar(20),
 subtotal int,
 discount_amount float,
