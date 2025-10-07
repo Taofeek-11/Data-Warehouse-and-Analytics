@@ -1,9 +1,7 @@
 # 🧱 SQL Data Warehouse and Analytics Project
 
 ----
-**Author:** Taofeek | Data Analyst| Data Scientist 
-
-**Tools:** SQL Server · Excel/CSV 
+**👤Author:** Oladigbolu Taofeek | Data Analyst| Data Scientist 
 
 📖 Welcome to the **Data Warehouse and Analytics** repository.
 This project demostrates data warehousing and analytics of an e-commerce store.  It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
@@ -121,7 +119,7 @@ project-name/
 ```
 
 ---
-## Licence
+## 📜 Licence
 
 This project is licenced under the (MIT Licence) LICENSE. You are free to use, modify, and share this project with proper attribution
 
