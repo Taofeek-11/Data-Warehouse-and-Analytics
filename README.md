@@ -1,4 +1,7 @@
-# SQL Data Warehouse and Analytics Project
+# 🧱 SQL Data Warehouse and Analytics Project
+
+####**Author:** Taofeek
+**Tools:** SQL Server · Excel/CSV 
 ----
 
 📖 Welcome to the **Data Warehouse and Analytics** repository.
@@ -34,9 +37,9 @@ Develop a warehouse using SQL Server to consolidate the e-commerce store data, e
 
 ---
 
-### BI: Analytics & Reporting (Data Analytics)
+### 📈 BI: Analytics & Reporting (Data Analytics)
 
-### Objectives 
+#### 🧭 Objectives 
 Develop SQL-based analytics for actionable insights into:
 
 •	**Product Performance**
@@ -121,8 +124,7 @@ project-name/
 
 This project is licenced under the (MIT Licence) LICENSE. You are free to use, modify, and share this project with proper attribution
 
-## About Me
 
-Hi, I'm oladigbolu taofeek...
+
 
 
