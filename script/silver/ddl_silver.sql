@@ -16,8 +16,6 @@ create table silver.csv_customer (
 	last_name varchar(50),
 	registration_date datetime,
 	birth_year int,
-    age int,
-    age_category varchar (10),
 	gender varchar(10),
 	country varchar(50),
 	city varchar(50),
