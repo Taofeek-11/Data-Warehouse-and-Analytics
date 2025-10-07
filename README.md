@@ -1,7 +1,7 @@
 # SQL Data Warehouse and Analytics Project
 ----
 
-Welcome to the **Data Warehouse and Analytics** repository.
+📖 Welcome to the **Data Warehouse and Analytics** repository.
 This project demostrates data warehousing and analytics of an e-commerce store.  It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
 
 ---
@@ -10,7 +10,7 @@ This project demostrates data warehousing and analytics of an e-commerce store. 
 
 ## Building the Data warehouse (Data Engineering)
 
-#### Objectives 
+#### 🧭 Objectives 
 Develop a warehouse using SQL Server to consolidate the e-commerce store data, enabling analytical reporting and data-driven decision-making.
 
 #### Specifications
@@ -24,6 +24,14 @@ Develop a warehouse using SQL Server to consolidate the e-commerce store data, e
 
 •	**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+#### 🧰 Tech Stack
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| Database | **Microsoft SQL Server** |
+| Data Source | **CSV / Excel Datasets** |
+| ETL / Data Processing | **SQL Scripts** (Bronze–Silver–Gold Layers) |
+| Documentation | **Markdown**, **ERD & Architecture Diagrams** |
+
 ---
 
 ### BI: Analytics & Reporting (Data Analytics)
@@ -33,8 +41,9 @@ Develop SQL-based analytics for actionable insights into:
 
 •	**Product Performance**
 
-•	**Cus•	**Marketing Perfomance**
-tomer Behaviour**
+•	**Customer Behaviour**
+
+•	**Marketing Perfomance**
 
 •	**Customer Values**
 
@@ -45,7 +54,7 @@ These insights empower stakeholders with business metrics for strategic decision
 
 ---
 
-## Data Architecture
+## 🏗️ Data Architecture
 
 This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
@@ -57,7 +66,27 @@ This project adopts the medallion architecture: Bronze, Silver, and Gold layer.
 
 ---
 
-## Responsitory Structure
+#### 📊 Analytics and Reporting
+The **Gold Layer** supports analytics such as:
+- Sales performance over time  
+- Customer purchasing behavior  
+- Product profitability and trends  
+- Regional and seasonal sales patterns  
+
+---
+
+#### ✅ Data Quality and Testing
+Data validation checks are implemented within the pipeline to ensure:
+- Schema consistency  
+- Duplicate detection  
+- Null and missing value control  
+- Referential integrity between fact and dimension tables  
+
+Unit and integration tests are maintained under the `tests/` directory.
+
+---
+
+## 📂Responsitory Structure
 
 ```
 project-name/
@@ -86,7 +115,6 @@ project-name/
 ├── LICENSE                       # License information for the project
 └── README.md                     # Project overview and setup instructions
 ```
-
 
 ---
 ## Licence
