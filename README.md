@@ -1,8 +1,8 @@
 # 🧱 SQL Data Warehouse and Analytics Project
 
-####**Author:** Taofeek
-**Tools:** SQL Server · Excel/CSV 
 ----
+**Author:** Taofeek
+**Tools:** SQL Server · Excel/CSV 
 
 📖 Welcome to the **Data Warehouse and Analytics** repository.
 This project demostrates data warehousing and analytics of an e-commerce store.  It builds an effective warehouse for data effectiveness and data analytics for actionable insights.
