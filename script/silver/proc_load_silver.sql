@@ -34,23 +34,14 @@ BEGIN
     DELETE FROM silver.csv_customer;
     
     SELECT '>> inserting data into: silver.csv_customer' AS message;
-    INSERT INTO silver.csv_customer (customer_id, email, first_name, last_name, registration_date, birth_year, age, age_category, gender, country, city, customer_segment, marketing_opt_in, preferred_category)
+    INSERT INTO silver.csv_customer (customer_id, email, first_name, last_name, registration_date, birthdate, gender, country, city, customer_segment, marketing_opt_in, preferred_category)
     SELECT 
         SUBSTRING(customer_id,6,5) AS customer_id,
         email,
         TRIM(first_name) AS first_name,
         TRIM(last_name) AS last_name,
         registration_date,
-        birth_year,
-		YEAR(CURDATE()) - birth_year AS age,
-        CASE 
-           WHEN YEAR(CURDATE()) - birth_year < 25 THEN '18-24'
-           WHEN YEAR(CURDATE()) - birth_year < 35 THEN '25-34'
-           WHEN YEAR(CURDATE()) - birth_year < 45 THEN '35-44'
-           WHEN YEAR(CURDATE()) - birth_year < 55 THEN '45-54'
-           WHEN YEAR(CURDATE()) - birth_year < 65 THEN '55-64'
-           ELSE '65+'
-		end as age_category,
+        birth_year as birthdate,
         CASE WHEN UPPER(TRIM(gender)) = 'F' THEN 'Female'
              WHEN UPPER(TRIM(gender)) = 'M' THEN 'Male'
              ELSE 'n/a'
@@ -67,7 +58,7 @@ BEGIN
         customer_segment,
         marketing_opt_in,
         preferred_category
-    FROM bronze.csv_customer;
+   FROM bronze.csv_customer;
     
     SET @end_time = NOW();
     SELECT CONCAT('>> load duration: ', TIMESTAMPDIFF(SECOND, @start_time, @end_time), ' seconds') AS message;
@@ -133,6 +124,7 @@ BEGIN
     -- Reset start time for next operation
     SET @start_time = NOW();
     
+    set foreign_key_checks = 0;
     -- loading silver.csv_products
     SELECT '>> deleting table: silver.csv_products' AS message;
     DELETE FROM silver.csv_products;
