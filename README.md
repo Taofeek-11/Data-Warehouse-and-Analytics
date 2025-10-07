@@ -1,7 +1,8 @@
 # 🧱 SQL Data Warehouse and Analytics Project
 
 ----
-**Author:** Taofeek
+**Author:** Taofeek | Data Analyst| Data Scientist 
+
 **Tools:** SQL Server · Excel/CSV 
 
 📖 Welcome to the **Data Warehouse and Analytics** repository.
