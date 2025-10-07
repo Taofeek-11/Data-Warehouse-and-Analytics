@@ -24,8 +24,7 @@ select
 	customer_id,
 	first_name,
 	last_name,
-    age,
-	age_category,
+    birthdate,
 	gender,
 	country,
 	city,
@@ -53,7 +52,7 @@ select
 from silver.csv_products;
 
 -- ====================================================================================================
--- create dimension: gold.dim_orders
+-- create dimension: gold.fact_orders
 -- ====================================================================================================
 drop view gold.fact_orders;
 create view gold.fact_orders as
