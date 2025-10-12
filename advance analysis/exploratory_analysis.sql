@@ -1,5 +1,5 @@
 /*===========================================================================================================================
- exploratory and advanced analysis
+ exploratory analysis
 =============================================================================================================================
  purpose:
   - explore all objects in the database and understand the relationships 
